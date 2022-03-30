@@ -1,0 +1,439 @@
+[
+    {
+        "question": "¿A qué se denomina Movilidad Sustentable?",
+        "answers": [
+            {"text": "Forma de trasladarnos de manera más efectiva, priorizando el uso del vehículo particular.", "correct": false},
+            {"text": "Forma de trasladarnos de manera más rápida, independientemente del tipo de movilidad elegida.", "correct": false},
+            {"text": "Forma de trasladarnos de manera rápida, segura y ordenada; haciendo hincapié en los peatones y ciclistas y contribuyendo a una mejor calidad ambiental.", "correct": true}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "¿Cuáles son los dos principios básicos de todo sistema de tránsito en el mundo?",
+        "answers": [
+            {"text": "Velocidad y confort.", "correct": false},
+            {"text": "Fluidez y seguridad.", "correct": true},
+            {"text": "Comodidad y Agilidad.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "Indique cuál es la premisa correcta:",
+        "answers": [
+            {"text": "Al tener más alternativas de movilidad no motorizada, como el uso de bicicleta, mayor es la probabilidad de siniestralidad.", "correct": false},
+            {"text": "Al disminuir la cantidad de vehículos particulares, mayor es la probabilidad de siniestralidad.", "correct": false},
+            {"text": "A mayor cantidad de vehículos motorizados, mayor probabilidad de siniestralidad.", "correct": true}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "Indique cuál de las siguientes situaciones conlleva mayor probabilidad de siniestralidad",
+        "answers": [
+            {"text": "Opción A.", "correct": false},
+            {"text": "Opción B.", "correct": true},
+            {"text": "Ambas respuestas, A y B, son correctas.", "correct": false}
+        ],
+        "picture": "images/image3.png"
+    },
+    {
+        "question": "¿Cuál de las siguientes opciones representa a los usuarios de la vía, ordenados de más a menos vulnerable?",
+        "answers": [
+            {"text": "Camión - Colectivo - Moto - Ciclista - Peatón - Taxi/Automóvil.", "correct": false},
+            {"text": "Peatón - Ciclista - Moto - Colectivo - Taxi/Automóvil - Camión.", "correct": true},
+            {"text": "Peatón - Ciclista - Colectivo - Moto - Taxi/Automóvil - Camión.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "¿A qué medio de transporte corresponden todos los siguientes beneficios: ecológico, saludable, económico y rápido?",
+        "answers": [
+            {"text": "Opción A.", "correct": true},
+            {"text": "Opción B.", "correct": false},
+            {"text": "Opción C.", "correct": false}
+        ],
+        "picture": "images/image4.png"
+    },
+    {
+        "question": "¿Es aconsejable circular en bicicleta de esta manera?",
+        "answers": [
+            {"text": "Sí, porque está conduciendo correctamente.", "correct": false},
+            {"text": "No, ya que utilizar auriculares es un factor de distracción que impide conectarse con lo que sucede alrededor.", "correct": true},
+            {"text": "Sí, ya que tiene las medidas de seguridad necesarias y el uso de los auriculares permite mejorar la calidad del viaje.", "correct": false}
+        ],
+        "picture": "images/image5.png"
+    },
+    {
+        "question": "En cuanto a su indumentaria, ¿cuál de los dos ciclistas presenta menor riesgo de sufrir un siniestro vial?",
+        "answers": [
+            {"text": "La opción A, ya que al tener ropa clara es más visible.", "correct": true},
+            {"text": "Opción B, ya que al tener ropa oscura no genera distracciones en los demás conductores.", "correct": false},
+            {"text": "Ambas opciones presentan el mismo riesgo por igual.", "correct": false}
+        ],
+        "picture": "images/image6.png"
+    },
+    {
+        "question": "¿Se puede circular en bicicleta por esta vía?",
+        "answers": [
+            {"text": "Sí, siempre que se mantenga en el carril derecho.", "correct": false},
+            {"text": "No, está prohibido.", "correct": true},
+            {"text": "Sí, mientras se respete la velocidad mínima de la arteria.", "correct": false}
+        ],
+        "picture": "images/image7.png"
+    },
+    {
+        "question": "El ciclista, ¿tiene permitido llevar un pasajero?",
+        "answers": [
+            {"text": "Sí, únicamente si no compromete la visibilidad.", "correct": false},
+            {"text": "Sí, mientras que esté ubicado en un asiento adicional detrás del conductor.", "correct": true},
+            {"text": "Ambas respuestas, A y B, son incorrectas.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "¿Está permitido estacionar una bicicleta en este lugar?",
+        "answers": [
+            {"text": "No, los estacionamientos son exclusivos para usuarios de autos y motos.", "correct": false},
+            {"text": "Sólo en algunos estacionamientos está permitido.", "correct": false},
+            {"text": "Sí, los estacionamientos están obligados a destinar un espacio para bicicletas.", "correct": true}
+        ],
+        "picture": "images/image8.png"
+    },
+    {
+        "question": "Un menor de 12 años puede circular en bicicleta por…",
+        "answers": [
+            {"text": "La calle, acompañado de un adulto mayor de 18 años.", "correct": false},
+            {"text": "Por la vereda, a la menor velocidad posible.", "correct": false},
+            {"text": "Ambas respuestas, A y B, son correctas.", "correct": true}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "¿Cuál es la velocidad máxima permitida para circular con una bicicleta con asistencia eléctrica?",
+        "answers": [
+            {"text": "La velocidad máxima permitida en la vía donde se encuentra la ciclovía.", "correct": false},
+            {"text": "25 km/h.", "correct": true},
+            {"text": "30 km/h.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "¿Qué distancia lateral debe dejar respecto de este ciclista en caso de querer adelantarlo?",
+        "answers": [
+            {"text": "Al menos, un metro y medio.", "correct": true},
+            {"text": "Al menos, medio metro.", "correct": false},
+            {"text": "Lo suficiente para no tocarlo.", "correct": false}
+        ],
+        "picture": "images/image9.png"
+    },
+    {
+        "question": "¿Por dónde deben circular los ciclistas en esta calle?",
+        "answers": [
+            {"text": "No pueden hacerlo. Únicamente deben circular por ciclovías o bicisendas y los menores de 12 años por la vereda.", "correct": false},
+            {"text": "Cerca del borde derecho de la calzada.", "correct": true},
+            {"text": "Cerca del borde izquierdo de la calzada.", "correct": false}
+        ],
+        "picture": "images/image10.png"
+    },
+    {
+        "question": "¿Qué indica esta seña?",
+        "answers": [
+            {"text": "Giro a la izquierda.", "correct": true},
+            {"text": "Adelantamiento por la izquierda.", "correct": false},
+            {"text": "Detenerse.", "correct": false}
+        ],
+        "picture": "images/image11.png"
+    },
+    {
+        "question": "¿Qué indica esta seña?",
+        "answers": [
+            {"text": "Giro a la izquierda.", "correct": false},
+            {"text": "Adelantamiento por la izquierda.", "correct": false},
+            {"text": "Detenerse.", "correct": true}
+        ],
+        "picture": "images/image12.png"
+    },
+    {
+        "question": "La circulación de un vehículo de dos ruedas suele ser más riesgosa porque...",
+        "answers": [
+            {"text": "Puede circular a más velocidad que los automóviles.", "correct": false},
+            {"text": "La posición del conductor es más elevada que en un automóvil.", "correct": false},
+            {"text": "Por su tamaño, es menos visible.", "correct": true}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "Si usted pretende cruzar esta intersección, ¿hacia qué lado debe mirar?",
+        "answers": [
+            {"text": "Hacia la derecha.", "correct": false},
+            {"text": "Hacia la izquierda.", "correct": false},
+            {"text": "Hacia ambos lados.", "correct": true}
+        ],
+        "picture": "images/image13.png"
+    },
+    {
+        "question": "¿Este ciclorodado con pedaleo asistido eléctricamente (bicicleta eléctrica) puede circular por este carril?",
+        "answers": [
+            {"text": "No, ya que la circulación de este tipo de vehículos en la vía pública se encuentra prohibida.", "correct": false},
+            {"text": "Sí, sólo si su potencia disminuye progresivamente hasta interrumpirse al alcanzar una velocidad máxima de 25 km/h.", "correct": true},
+            {"text": "No, sólo pueden circular por vías donde no haya ciclovías.", "correct": false}
+        ],
+        "picture": "images/image14.png"
+    },
+    {
+        "question": "En esta situación, ¿es correcto que el vehículo avance?",
+        "answers": [
+            {"text": "Sí, porque por allí no circulan peatones y no hay peligro.", "correct": false},
+            {"text": "No, porque aún hay peatones cruzando de un lado al otro de la arteria.", "correct": true},
+            {"text": "Sí, aunque haya peatones cruzando tiene el espacio suficiente para avanzar.", "correct": false}
+        ],
+        "picture": "images/image15.png"
+    },
+    {
+        "question": "¿Cómo debe proceder, si al llegar a esta intersección, se desea continuar en línea recta?",
+        "answers": [
+            {"text": "Detener el vehículo para que el peatón termine de cruzar y, antes de avanzar, hacer contacto visual con los peatones que aún no comenzaron a cruzar, aun sabiendo que obstruiré por un momento la bocacalle.", "correct": true},
+            {"text": "Avanzar porque la luz verde del semáforo me habilita pero tocando bocina para que los peatones no se distraigan. Es importante no obstruir la bocacalle.", "correct": false}
+        ],
+        "picture": "images/image16.png"
+    },
+    {
+        "question": "Desde el punto de vista del conductor frente a esta situación, ¿cuál es la acción adecuada?",
+        "answers": [
+            {"text": "Esquivar a la peatona y tocarle bocina para que no se distraiga.", "correct": false},
+            {"text": "Frenar y esperar a que termine de cruzar la peatona, aun sabiendo que el vehículo pueda obstaculizar el flujo vehicular.", "correct": true}
+        ],
+        "picture": "images/image17.png"
+    },
+    {
+        "question": "Dadas las características de esta intersección, ¿el peatón también tiene prioridad?",
+        "answers": [
+            {"text": "No, pero si el peatón se encuentra cruzando, el conductor debe dejarlo pasar para no producir un siniestro vial.", "correct": false},
+            {"text": "Sí, siempre.", "correct": true}
+        ],
+        "picture": "images/image18.png"
+    },
+    {
+        "question": "Frente a la siguiente situación, ¿qué actitud debe tomar usted como conductor?",
+        "answers": [
+            {"text": "Hacer contacto visual con la peatona y en el caso de que comience a cruzar cederle el paso.", "correct": true},
+            {"text": "Avanzar ya que se tiene prioridad sobre la peatona por circular desde la derecha.", "correct": false},
+            {"text": "Ambas respuestas, la A y la B, son incorrectas.", "correct": false}
+        ],
+        "picture": "images/image19.png"
+    },
+    {
+        "question": "Si ud. es el conductor del vehículo, ¿qué conducta debe adoptar en la siguiente situación?",
+        "answers": [
+            {"text": "Priorizar la circulación del peatón, indefectiblemente.", "correct": true},
+            {"text": "Realizar una guiñada para advertir su preferencia de avance.", "correct": false},
+            {"text": "Completar la maniobra como sea posible, para disminuir su tiempo de permanencia sobre la vereda.", "correct": false}
+        ],
+        "picture": "images/image20.png"
+    },
+    {
+        "question": "En esta intersección, ¿quién tiene prioridad de paso?",
+        "answers": [
+            {"text": "El peatón.", "correct": true},
+            {"text": "El conductor.", "correct": false},
+            {"text": "Es indistinto.", "correct": false}
+        ],
+        "picture": "images/image21.png"
+    },
+    {
+        "question": "Cuando no hay demarcación de la senda peatonal, ¿por dónde deben cruzar los peatones?",
+        "answers": [
+            {"text": "Es indistinto, siempre que miren a ambos lados antes de hacerlo.", "correct": false},
+            {"text": "En coincidencia con las paradas de transporte.", "correct": false},
+            {"text": "Por la esquina, por la prolongación longitudinal de la vereda sobre la calle.", "correct": true}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "Como conductor, observa que esta luz se encuentra intermitente, ¿qué debería esperar que haga el peatón?",
+        "answers": [
+            {"text": "Que no comience a cruzar la calzada.", "correct": false},
+            {"text": "Si inició el cruce, que lo finalice con mucha precaución.", "correct": false},
+            {"text": "Ambas respuestas, la A y la B son correctas.", "correct": true}
+        ],
+        "picture": "images/image22.png"
+    },
+    {
+        "question": "¿Qué vehículos pueden circular por el carril señalizado en la imagen?",
+        "answers": [
+            {"text": "Todos los transportes de pasajeros.", "correct": false},
+            {"text": "Sólo colectivos entre las 07 h y las 21 h.", "correct": false},
+            {"text": "Colectivos autorizados y vehículos destinados al servicio de emergencia en cumplimiento de sus funciones.", "correct": true}
+        ],
+        "picture": "images/image23.png"
+    },
+    {
+        "question": "Además de colectivos, ¿quiénes pueden circular por este carril?",
+        "answers": [
+            {"text": "Taxis con pasajeros.", "correct": false},
+            {"text": "Motos.", "correct": false},
+            {"text": "Ambas respuestas, la A y la B, son incorrectas.", "correct": true}
+        ],
+        "picture": "images/image24.png"
+    },
+    {
+        "question": "¿La autoridad de tránsito puede retener la licencia de conducir al conductor de un vehículo, que no sea colectivo o de emergencia, por encontrarse circulando por este carril?",
+        "answers": [
+            {"text": "Sí, ya que constituye una falta de tránsito que amerita esa sanción.", "correct": true},
+            {"text": "Sólo si perjudica la circulación de los colectivos.", "correct": false},
+            {"text": "Nunca, ya que la licencia de conducir es un documento personal. Sólo puede labrar un acta de infracción.", "correct": false}
+        ],
+        "picture": "images/image23.png"
+    },
+    {
+        "question": "¿Qué indica la señal horizontal de color rojo que se encuentra demarcada sobre la calzada?",
+        "answers": [
+            {"text": "Cruce de Metrobús.", "correct": true},
+            {"text": "Cruce exclusivo de vehículos de emergencia.", "correct": false},
+            {"text": "Cruce de bicicletas.", "correct": false}
+        ],
+        "picture": "images/image25.png"
+    },
+    {
+        "question": "¿Qué indica la señal horizontal que se encuentra demarcada sobre la calzada?",
+        "answers": [
+            {"text": "Carril exclusivo de colectivo de pasajeros.", "correct": true},
+            {"text": "Cruce exclusivo de vehículos de emergencia.", "correct": false},
+            {"text": "Ceda el paso.", "correct": false}
+        ],
+        "picture": "images/image25.png"
+    },
+    {
+        "question": "Si ud. circula en el carril contiguo al carril exclusivo del Metrobús y desea realizar un sobrepaso a otro vehículo que circula más lento, ¿puede utilizar el carril exclusivo para hacer esta maniobra?",
+        "answers": [
+            {"text": "No, porque está prohibido circular de manera permanente o transitoria por dicho carril.", "correct": true},
+            {"text": "Sí, sólo cuando la línea longitudinal del lado exterior de este carril sea discontinua.", "correct": false},
+            {"text": "Sí, porque sólo se permite su utilización para realizar alguna maniobra.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "¿Qué son los carriles exclusivos?",
+        "answers": [
+            {"text": "Vías con un único sentido de circulación.", "correct": false},
+            {"text": "Bandas longitudinales demarcadas en la calzada, destinadas a la circulación de determinados vehículos.", "correct": true},
+            {"text": "Lugar por donde circulan ambulancias, bomberos y/o vehículos policiales, en cumplimiento o no de sus funciones.", "correct": false}
+        ],
+        "picture": "images/image26.png"
+    },
+    {
+        "question": "El auto señalizado con un círculo rojo, ¿tiene permitido girar a la derecha en el próximo cruce?",
+        "answers": [
+            {"text": "Sí, siempre que señalice la maniobra con anticipación.", "correct": false},
+            {"text": "No, ya que para realizarlo debería invadir los carriles exclusivos.", "correct": false},
+            {"text": "Sólo si lo realiza fuera del horario de restricción de los carriles exclusivos.", "correct": true}
+        ],
+        "picture": "images/image27.png"
+    },
+    {
+        "question": "¿Qué significa la demarcación horizontal que se visualiza en la imagen?",
+        "answers": [
+            {"text": "Cruce peligroso por tener poca iluminación.", "correct": false},
+            {"text": "Senda peatonal próxima a centros de salud.", "correct": false},
+            {"text": "Senda peatonal próxima a zona escolar.", "correct": true}
+        ],
+        "picture": "images/image28.png"
+    },
+    {
+        "question": "¿Qué indica la demarcación horizontal que se visualiza en la imagen?",
+        "answers": [
+            {"text": "Estacionamiento para micros escolares.", "correct": false},
+            {"text": "Carril de detención para el ascenso y descenso de escolares.", "correct": true},
+            {"text": "Zona de ascenso y descenso de pasajeros de transporte público.", "correct": false}
+        ],
+        "picture": "images/image29.png"
+    },
+    {
+        "question": "La siguiente imagen corresponde a:",
+        "answers": [
+            {"text": "Calle Prioridad Peatón.", "correct": true},
+            {"text": "Calle con Intervención Peatonal.", "correct": false},
+            {"text": "Calle con Bicisenda.", "correct": false}
+        ],
+        "picture": "images/image30.png"
+    },
+    {
+        "question": "Las intervenciones horizontales señaladas, sirven para…",
+        "answers": [
+            {"text": "Incrementar la seguridad de los peatones.", "correct": true},
+            {"text": "Promover la movilidad vehicular.", "correct": false},
+            {"text": "Colaborar con la rapidez en la movilidad.", "correct": false}
+        ],
+        "picture": "images/image31.png"
+    },
+    {
+        "question": "¿Cómo se denomina la intervención de color amarillo que se visualiza en la imagen?",
+        "answers": [
+            {"text": "Intervención Peatonal.", "correct": true},
+            {"text": "Intervención Vehicular.", "correct": false},
+            {"text": "Intervención de la Calzada.", "correct": false}
+        ],
+        "picture": "images/image32.png"
+    },
+    {
+        "question": "¿Para qué sirve la demarcación horizontal de color amarillo que se visualiza en la imagen?",
+        "answers": [
+            {"text": "Ampliar la zona permitida de estacionamiento para motos.", "correct": false},
+            {"text": "Reducir la velocidad y radio de giro de los vehículos.", "correct": true},
+            {"text": "Ampliar la zona permitida de estacionamiento para vehículos de emergencia.", "correct": false}
+        ],
+        "picture": "images/image33.png"
+    },
+    {
+        "question": "En la imagen se muestra un cruce exclusivo para ciclistas.",
+        "answers": [
+            {"text": "Verdadero.", "correct": false},
+            {"text": "Falso.", "correct": true}
+        ],
+        "picture": "images/image35.png"
+    },
+    {
+        "question": "¿Qué indica el siguiente cruce verde en las intersecciones?",
+        "answers": [
+            {"text": "Advierte a los conductores sobre la existencia de un punto de cruce de ciclovía o bicisenda.", "correct": true},
+            {"text": "Advierte a los conductores sobre la existencia de un establecimiento escolar cercano.", "correct": false},
+            {"text": "Advierte a los conductores sobre un cruce peligroso por tener poca iluminación.", "correct": false}
+        ],
+        "picture": "images/image36.png"
+    },
+    {
+        "question": "¿Cuál de las siguientes imágenes muestra una bicisenda?",
+        "answers": [
+            {"text": "Opción A.", "correct": false},
+            {"text": "Opción B.", "correct": true},
+            {"text": "Opción C.", "correct": false}
+        ],
+        "picture": "images/image37.png"
+    },
+    {
+        "question": "¿Cuál de las siguientes imágenes muestra una ciclovía?",
+        "answers": [
+            {"text": "Opción A.", "correct": true},
+            {"text": "Opción B.", "correct": false},
+            {"text": "Opción C.", "correct": false}
+        ],
+        "picture": "images/image38.png"
+    },
+    {
+        "question": "¿Cuál es la principal diferencia entre bicisendas y ciclovías?",
+        "answers": [
+            {"text": "La bicisenda es de uso exclusivo de bicicletas y la ciclovía de uso preferencial.", "correct": false},
+            {"text": "La bicisenda se encuentra sobre la calzada y la ciclovía sobre la vereda.", "correct": false},
+            {"text": "La bicisenda se encuentra sobre la vereda y la ciclovía sobre la calzada.", "correct": true}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "¿Qué es una ciclovía?",
+        "answers": [
+            {"text": "Sector señalizado especialmente en la calzada para la circulación con carácter preferente de ciclorodados (bicicletas) y dispositivos de movilidad personal.", "correct": false},
+            {"text": "Sector de la calzada señalizado especialmente con una separación física o demarcación horizontal para la circulación exclusiva de ciclorodados (bicicletas) y dispositivos de movilidad personal.", "correct": true},
+            {"text": "Sector señalizado y especialmente acondicionado en aceras y espacios verdes para la circulación de ciclorodados (bicicletas) y dispositivos de movilidad personal.", "correct": false}
+        ],
+        "picture": "//"
+    }
+]

@@ -1,0 +1,357 @@
+[
+    {
+        "question": "¿Qué debe hacer usted si su vehículo queda inmovilizado en un túnel?",
+        "answers": [
+            {"text": "Dejar el vehículo cerrado y salir del túnel cuanto antes.", "correct": false},
+            {"text": "Apagar todas las luces si el túnel está iluminado y solicitar auxilio a través del teléfono móvil.", "correct": false},
+            {"text": "Apagar el motor, colocar las balizas portátiles, mantener encendidas las luces de posición e intermitentes y llamar al número de asistencia.", "correct": true}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "En caso de participar de un siniestro vial en una avenida, es recomendable señalizar la zona para que no se produzcan más incidentes viales.",
+        "answers": [
+            {"text": "Verdadero", "correct": true},
+            {"text": "Falso", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "En caso de un siniestro vial en este tipo de calle, ¿cómo es recomendable señalizar la zona del vehículo inmovilizado?",
+        "answers": [
+            {"text": "Se deben encender las luces bajas y, en lo posible, colocar balizas portátiles delante y detrás del mismo.", "correct": false},
+            {"text": "Se deben encender las luces altas y, en lo posible, colocar balizas portátiles detrás del mismo.", "correct": false},
+            {"text": "Se deben encender las balizas y, en lo posible, colocar balizas portátiles del lado de donde provienen los vehículos a una distancia adecuada del vehículo.", "correct": true}
+        ],
+        "picture": "images/image39.png"
+    },
+    {
+        "question": "En el caso de que un vehículo quede inmovilizado por un siniestro vial o desperfecto mecánico en los carriles marcados de esta vía, ¿qué es recomendable hacer?",
+        "answers": [
+            {"text": "Colocar las balizas portátiles, ponerse a resguardo detrás de una defensa si las hubiere y llamar al número de emergencia de la Autopista.", "correct": false},
+            {"text": "Descender del vehículo usando un chaleco reflectante para hacer señas al resto de los vehículos y llamar al número de emergencia de la Autopista.", "correct": false},
+            {"text": "Permanecer dentro del vehículo con el cinturón de seguridad abrochado, encender las balizas y llamar al número de emergencia de la Autopista.", "correct": true}
+        ],
+        "picture": "images/image40.png"
+    },
+    {
+        "question": "En caso de un siniestro vial o desperfecto mecánico, ¿qué es recomendable hacer cuando el vehículo queda inmovilizado en el sector señalado?",
+        "answers": [
+            {"text": "Encender las luces intermitentes, colocar las balizas portátiles y llamar al número de emergencia de la Autopista.", "correct": false},
+            {"text": "Descender del vehículo usando un chaleco reflectante y ponerse a resguardo detrás de una defensa si las hubiere.", "correct": false},
+            {"text": "Ambas respuestas, la A y la B, son correctas.", "correct": true}
+        ],
+        "picture": "images/image41.png"
+    },
+    {
+        "question": "En un procedimiento judicial de un siniestro vial, al ser convocados en carácter de testigo, no es obligatorio presentarse a declarar en la Fiscalía correspondiente.",
+        "answers": [
+            {"text": "Verdadero", "correct": false},
+            {"text": "Falso", "correct": true}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "La persona que se da a la fuga en un siniestro vial, dejando a alguien herido, puede ser juzgada por el delito de abandono de persona.",
+        "answers": [
+            {"text": "Verdadero", "correct": true},
+            {"text": "Falso", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "En caso de participar de un siniestro vial, ¿de cuánto tiempo se dispone para dar aviso sobre el hecho a la compañía aseguradora del vehículo?",
+        "answers": [
+            {"text": "24 horas.", "correct": false},
+            {"text": "48 horas", "correct": false},
+            {"text": "72 horas", "correct": true}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "En caso de participar en un siniestro vial, en el que resultaron personas heridas, el personal policial que acuda al lugar se encargará de preservar la escena del hecho, brindando los medios para que los servicios de emergencia atiendan a los heridos y resguardando los vehículos y otras pruebas del incidente para una adecuada resolución del caso.",
+        "answers": [
+            {"text": "Verdadero", "correct": true},
+            {"text": "Falso", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "En caso de participar en un siniestro vial, ¿qué es recomendable hacer como primer paso?",
+        "answers": [
+            {"text": "Detenerse inmediatamente y permanecer en el lugar del hecho.", "correct": true},
+            {"text": "Conducir hasta la comisaría más cercana.", "correct": false},
+            {"text": "Llamar al 911 y continuar el viaje.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "En caso de siniestro, el orden de actuación recomendado es…",
+        "answers": [
+            {"text": "Alertar - Socorrer - Proteger.", "correct": false},
+            {"text": "Proteger - Alertar - Socorrer.", "correct": true},
+            {"text": "Socorrer - Proteger - Alertar.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "¿Cuáles son los números de emergencia que todo usuario de la vía pública debe conocer con el objetivo de poder llamar y pedir ayuda ante el acontecimiento de algún incidente?",
+        "answers": [
+            {"text": "911 y 109.", "correct": false},
+            {"text": "103 y 107.", "correct": false},
+            {"text": "107 y 911.", "correct": true}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "En caso de participar en un siniestro vial, es recomendable que quien llame por teléfono al servicio de emergencias (107), indique con claridad:",
+        "answers": [
+            {"text": "Lugar del hecho, características del incidente, cantidad y estado de las víctimas.", "correct": true},
+            {"text": "Lugar del hecho, número de dominio de los vehículos involucrados, cantidad y estado de las víctimas.", "correct": false},
+            {"text": "Únicamente lugar del hecho para ganar tiempo y que el servicio de emergencia llegue lo más rápido posible.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "¿Qué obligaciones impone la ley a aquel conductor que participe de un siniestro?",
+        "answers": [
+            {"text": "Detenerse inmediatamente, solicitar auxilio para atender a las víctimas si las hubiera y brindar su colaboración para evitar mayores daños para la circulación.", "correct": false},
+            {"text": "Suministrar sus datos personales, del vehículo, de la licencia de conducir y del seguro obligatorio a los demás siniestrados y a la autoridad interviniente.", "correct": false},
+            {"text": "Ambas respuestas, A y B, son correctas.", "correct": true}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "¿Quién es el responsable civil por un incidente de tránsito producido por un menor de edad poseedor de una licencia de conducir?",
+        "answers": [
+            {"text": "El que firmó la autorización para obtener la licencia.", "correct": true},
+            {"text": "El que lo acompaña.", "correct": false},
+            {"text": "El que le autorizó el uso del vehículo.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "En materia de Responsabilidad Civil, ¿qué es lo que se considera como factor determinante para dar inicio a una demanda?",
+        "answers": [
+            {"text": "La intención de la conducta dañosa.", "correct": false},
+            {"text": "La existencia de un daño real, que afecte a algún particular, provocado como consecuencia del incidente.", "correct": true},
+            {"text": "Los antecedentes de la persona que provoca el daño.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "Frente a un incidente de tránsito, ¿puede transferirse la Responsabilidad Penal del conductor de un vehículo al dueño del mismo?",
+        "answers": [
+            {"text": "No, porque la responsabilidad penal es intransferible.", "correct": true},
+            {"text": "Sí. Además, del dueño también puede transferirse a la Compañía de Seguros.", "correct": false},
+            {"text": "Lo resolverá el Juez, en función de la gravedad del incidente y sus consecuencias.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "En un incidente de tránsito, ¿qué significa que el conductor sea considerado responsable por negligencia?",
+        "answers": [
+            {"text": "Que no ha respondido adecuadamente a una circunstancia del tránsito por falta de práctica en la conducción.", "correct": false},
+            {"text": "Que ha realizado un acto con su vehículo que las reglas de prudencia indican no hacer, o sea, que ha actuado peligrosamente.", "correct": false},
+            {"text": "Que ha actuado no conforme a las exigencias de la Ley.", "correct": true}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "Frente a un control de tránsito en CABA, si la autoridad realiza una infracción ante una falta cometida por un conductor, ¿dónde puede efectuarse el pago de la multa por dicha infracción",
+        "answers": [
+            {"text": "En ese mismo momento y ante la Autoridad de Control si ésta lo requiere.", "correct": false},
+            {"text": "Ante la oficina de la Dirección General de Administración de Infracciones que corresponda.", "correct": true},
+            {"text": "Ambas respuestas, la A y B, son correctas.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "Al tener la licencia vencida, ¿por cuánto tiempo puede seguir conduciendo sin estar en infracción?",
+        "answers": [
+            {"text": "30 días corridos desde su vencimiento.", "correct": false},
+            {"text": "Hasta las 00 horas del día de cumpleaños.", "correct": false},
+            {"text": "No está permitido conducir con la licencia vencida, excepto que el vencimiento fuese un día inhábil, en cuyo caso se traslada al día hábil siguiente.", "correct": true}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "En caso de comprobar una falta, ¿puede un agente de tránsito retener la licencia de conducir?",
+        "answers": [
+            {"text": "No, porque es un documento personal.", "correct": false},
+            {"text": "Sólo en los casos que la normativa vigente así lo indique.", "correct": true},
+            {"text": "Sólo en casos de incidentes que involucren a terceros.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "Cuando se vence la licencia de conducir, ¿cuánto tiempo puede transcurrir para su renovación antes de que se necesite tramitarla como si fuese un otorgamiento?",
+        "answers": [
+            {"text": "30 días corridos desde su vencimiento.", "correct": false},
+            {"text": "Para que se la pueda renovar, siempre debe hacerse antes de su vencimiento. Una vez vencida se la debe tramitar como licencia nueva.", "correct": false},
+            {"text": "No debe superar el año desde su vencimiento.", "correct": true}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "¿Cuánto dura en su totalidad la condición de principiante?",
+        "answers": [
+            {"text": "2 años, sólo en el caso de los menores de 21 años de edad.", "correct": false},
+            {"text": "6 meses, sólo para quien la tramita por primera vez.", "correct": false},
+            {"text": "2 años, independientemente a la edad.", "correct": true}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "Con esta documentación, ¿quién está autorizado a conducir el vehículo?",
+        "answers": [
+            {"text": "Nadie, porque está vencida y debe renovarse.", "correct": false},
+            {"text": "Sólo el titular.", "correct": true},
+            {"text": "El titular y sus familiares directos, por tener el mismo apellido.", "correct": false}
+        ],
+        "picture": "images/image42.png"
+    },
+    {
+        "question": "¿Cuántas “cédulas para autorizados a conducir” podrán otorgarse para un mismo vehículo?",
+        "answers": [
+            {"text": "Sólo una.", "correct": false},
+            {"text": "La cantidad que solicite el titular del vehículo.", "correct": true},
+            {"text": "Hasta cinco.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "¿Se puede manejar un vehículo con “cédula para autorizado a conducir” a nombre de otra persona?",
+        "answers": [
+            {"text": "Siempre y cuando se encuentre vigente.", "correct": false},
+            {"text": "Sólo si es un familiar directo o tiene una relación laboral.", "correct": true},
+            {"text": "En ningún caso.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "El certificado del seguro de responsabilidad civil es obligatorio llevarlo ÚNICAMENTE cuando se conduce por vías interurbanas.",
+        "answers": [
+            {"text": "Verdadero.", "correct": false},
+            {"text": "Falso.", "correct": true}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "Todo vehículo debe estar cubierto por un seguro, ¿qué daños mínimamente debe cubrir?",
+        "answers": [
+            {"text": "Eventuales daños causados a terceros transportados únicamente.", "correct": false},
+            {"text": "Eventuales daños causados a terceros transportados o no.", "correct": true},
+            {"text": "Daños causados a los vehículos únicamente.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "¿Está permitido circular con la placa de dominio de este modo?",
+        "answers": [
+            {"text": "Sí, ya que exhibe una documentación provisoria.", "correct": false},
+            {"text": "No, ya que para poder cumplir su función como provisoria debe ampliarse.", "correct": false},
+            {"text": "No, ya que debe estar colocada en el lugar y de forma reglamentaria.", "correct": true}
+        ],
+        "picture": "images/image43.png"
+    },
+    {
+        "question": "Al sufrir la pérdida de la placa de dominio de un vehículo, ¿dónde se puede solicitar su reposición?",
+        "answers": [
+            {"text": "Se la puede solicitar en cualquier establecimiento comercial que la realice.", "correct": false},
+            {"text": "Se la debe solicitar en el Registro Nacional de la Propiedad del Automotor que corresponde al vehículo.", "correct": true},
+            {"text": "Ambas respuestas, la A y la B, son correctas.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "La ubicación y posición de las placas de dominio del vehículo, ¿puede sufrir algún tipo de modificación?",
+        "answers": [
+            {"text": "Sólo pueden, eventualmente, ampliarse para mejorar su visibilidad.", "correct": false},
+            {"text": "No, deben estar colocadas en el lugar y de forma reglamentaria.", "correct": true},
+            {"text": "Sólo está prohibido modificar la placa de dominio trasera, no así la delantera.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "¿Cuál es el objetivo de la Verificación Técnica Vehicular?",
+        "answers": [
+            {"text": "Reducir la contaminación y mejorar la calidad del medio ambiente", "correct": false},
+            {"text": "Garantizar el cumplimiento de las normas de seguridad de los vehículos.", "correct": false},
+            {"text": "Ambas respuestas, la A y la B, son correctas.", "correct": true}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "¿Cuál de las siguientes opciones está directamente vinculada a la prevención y reducción de siniestros viales?",
+        "answers": [
+            {"text": "Opción A.", "correct": false},
+            {"text": "Opción B.", "correct": true},
+            {"text": "Ambas respuestas, A y B, son correctas.", "correct": false}
+        ],
+        "picture": "images/image44.png"
+    },
+    {
+        "question": "Según Ley N°2265, ¿Cuándo debe realizar la primer VTV un automóvil 0km radicado en CABA?",
+        "answers": [
+            {"text": "Pasados los 3 años de antigüedad, en el mes que le corresponda, o superados los 60.000 km.", "correct": true},
+            {"text": "Inmediatamente al retirarlo de la agencia.", "correct": false},
+            {"text": "En el mes que le corresponda, inmediatamente seguido al año transcurrido.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "En el caso de tener que realizar una reverificación de la VTV, por motivos de una desaprobación original, ¿cuál es el plazo de tiempo para que ésta sea gratuita?",
+        "answers": [
+            {"text": "No hay plazo. Si llegase a desaprobar se deberá volver a abonar el arancel correspondiente, aunque se realice al otro día.", "correct": false},
+            {"text": "Si se realiza dentro de los 60 días corridos a partir de efectuada la verificación.", "correct": false},
+            {"text": "Si se realiza dentro de los 60 días hábiles de efectuada la verificación.", "correct": true}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "¿Cuál dígito de la siguiente placa de dominio indica el mes en que se debe realizar la Verificación Técnica Vehicular?",
+        "answers": [
+            {"text": "El número 1.", "correct": false},
+            {"text": "La letra D.", "correct": false},
+            {"text": "El número 3.", "correct": true}
+        ],
+        "picture": "images/image45.png"
+    },
+    {
+        "question": "¿En qué mes del año debe realizar la Verificación Técnica Vehicular el vehículo que porte esta placa de dominio?",
+        "answers": [
+            {"text": "Enero.", "correct": false},
+            {"text": "Febrero.", "correct": false},
+            {"text": "Marzo.", "correct": true}
+        ],
+        "picture": "images/image45.png"
+    },
+    {
+        "question": "¿En qué mes del año debe realizar la Verificación Técnica Vehicular el vehículo que porte esta placa de dominio?",
+        "answers": [
+            {"text": "Enero.", "correct": false},
+            {"text": "Julio.", "correct": true},
+            {"text": "Diciembre.", "correct": false}
+        ],
+        "picture": "images/image46.png"
+    },
+    {
+        "question": "Según el Sistema de Evaluación Permanente de Conductores (Scoring), ¿cuántos puntos se otorgan al conductor que obtiene la licencia de conducir por primera vez?",
+        "answers": [
+            {"text": "10 puntos.", "correct": false},
+            {"text": "20 puntos.", "correct": true},
+            {"text": "5 puntos.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "¿En qué consiste el Sistema de Evaluación Permanente de Conductores (Scoring)?",
+        "answers": [
+            {"text": "En la asignación de un puntaje para cada conductor, al que se le irá restando puntos por infracciones cometidas.", "correct": true},
+            {"text": "La obligación de los conductores a realizar un curso vial anual.", "correct": false},
+            {"text": "Ambas respuestas, la A y la B, son incorrectas.", "correct": false}
+        ],
+        "picture": "//"
+    }
+]

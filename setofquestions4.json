@@ -1,0 +1,346 @@
+[ 
+    {
+        "question": "Si los espejos retrovisores de su vehículo están bien orientados, igualmente es posible que se produzcan puntos ciegos cuando observe por los mismos.",
+        "answers": [
+            {"text": "Verdadero.", "correct": true},
+            {"text": "Falso.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "¿Cómo se pueden reducir los puntos ciegos al conducir un vehículo?",
+        "answers": [
+            {"text": "Acomodar correctamente los espejos retrovisores antes de iniciar la marcha. Mientras se circula, además de revisar los espejos retrovisores, utilizar la visión periférica dando vistazos por encima de los hombros cuando sea necesario.", "correct": false},
+            {"text": "Antes de realizar una maniobra se debe disminuir la velocidad de circulación, colocar la luz de giro y mirar por los espejos realizando un pequeño movimiento corporal hacia adelante para ampliar el ángulo de visión.", "correct": false},
+            {"text": "Ambas respuestas, A y B, son correctas.", "correct": true}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "¿A qué se llama “Punto Ciego”?",
+        "answers": [
+            {"text": "Al área de visión del entorno, a la que el conductor no tiene acceso ya sea de manera directa o porque los espejos retrovisores no la reflejan.", "correct": true},
+            {"text": "Sólo al área de visión que no es cubierta por los espejos retrovisores.", "correct": false},
+            {"text": "Al punto imaginario ubicado en el horizonte de una ruta.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "Para realizar una conducción segura, ¿cuándo es recomendable verificar la orientación de los espejos retrovisores?",
+        "answers": [
+            {"text": "Antes de iniciar la marcha.", "correct": true},
+            {"text": "Durante la conducción, para poder hacer una prueba real.", "correct": false},
+            {"text": "Con el vehículo inmovilizado y el conductor fuera del mismo.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "Indique cuál de estas imágenes muestra la manera correcta de colocar el espejo retrovisor:",
+        "answers": [
+            {"text": "Imagen A.", "correct": true},
+            {"text": "Imagen B.", "correct": false},
+            {"text": "Ambas respuestas, la A y la B, son correctas.", "correct": false}
+        ],
+        "picture": "images/image188.png"
+    },
+    {
+        "question": "Todos los cristales de un vehículo deben garantizar visibilidad...",
+        "answers": [
+            {"text": "Solamente de adentro del automóvil hacia afuera.", "correct": false},
+            {"text": "Desde adentro hacia fuera y de afuera hacia adentro del vehículo.", "correct": true},
+            {"text": "El único cristal que debe garantizar plena y total visibilidad es el parabrisas.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "En cuanto al grado o tono de color que pueden tener los cristales de un automóvil, ¿qué establece la ley 2148, con respecto a su control en la vía pública?",
+        "answers": [
+            {"text": "Para medir el grado de tonalidad debe efectuarse una prueba colorimétrica mediante un dispositivo portátil reglamentado debidamente.", "correct": false},
+            {"text": "Se deben distinguir los ocupantes del vehículo a corta distancia.", "correct": true},
+            {"text": "Se debería poder observar las facciones del conductor a una distancia mínima de 15 metros.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "¿Qué se entiende por habitáculo?",
+        "answers": [
+            {"text": "Al espacio a ser ocupado por el conductor y los pasajeros.", "correct": true},
+            {"text": "Al lugar en el cual se transporta el equipaje (Baúl).", "correct": false},
+            {"text": "Comprende a todo el vehículo en general.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "¿Cómo deben encontrarse los neumáticos para comprobar la correcta presión de aire?",
+        "answers": [
+            {"text": "Fríos.", "correct": true},
+            {"text": "Calientes.", "correct": false},
+            {"text": "Es indistinto, al ser de caucho se mantienen aislados de la temperatura.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "¿En qué momento es necesario renovar el siguiente elemento de seguridad? Cuando la profundidad del dibujo es menor de…",
+        "answers": [
+            {"text": "1,6 mm.", "correct": true},
+            {"text": "2 mm.", "correct": false},
+            {"text": "3 mm.", "correct": false}
+        ],
+        "picture": "images/image189.png"
+    },
+    {
+        "question": "¿Cuál es la correcta presión de los neumáticos de un automóvil particular?",
+        "answers": [
+            {"text": "28 lbs.", "correct": false},
+            {"text": "La que indique el manual del usuario de ese automóvil.", "correct": true},
+            {"text": "30 lbs.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "Si al circular se presenta la siguiente situación, ¿cuál es la acción que se recomienda realizar?",
+        "answers": [
+            {"text": "Frenar inmediatamente.", "correct": false},
+            {"text": "Desacelerar rápidamente y frenar.", "correct": false},
+            {"text": "Desacelerar lentamente y sujetar el volante.", "correct": true}
+        ],
+        "picture": "images/image190.png"
+    },
+    {
+        "question": "Si el sistema de amortiguación delantero de su vehículo se encuentra en mal estado, ¿puede afectar esta anomalía la conducción?",
+        "answers": [
+            {"text": "No, porque al ser el sistema de suspensión delantero el deteriorado, éste no influirá en la conducción.", "correct": false},
+            {"text": "Sí, puede afectar al correcto control del vehículo.", "correct": true},
+            {"text": "No, porque si se encuentra correctamente la suspensión trasera, ésta asegurará el contacto adecuado de las ruedas con la calzada.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "Según las Leyes N° 2.148 y 24.449, ¿qué ítem enumera los elementos de seguridad obligatorios que se deben llevar en un vehículo?",
+        "answers": [
+            {"text": "Los elementos A, B y D.", "correct": false},
+            {"text": "Los elementos B, C y D.", "correct": true},
+            {"text": "Los elementos A, D y E.", "correct": false}
+        ],
+        "picture": "images/image191.png"
+    },
+    {
+        "question": "El siguiente elemento de seguridad, está correctamente ubicado.",
+        "answers": [
+            {"text": "Verdadero.", "correct": false},
+            {"text": "Falso.", "correct": true}
+        ],
+        "picture": "images/image192.png"
+    },
+    {
+        "question": "El siguiente elemento de seguridad, está correctamente ubicado.",
+        "answers": [
+            {"text": "Verdadero.", "correct": true},
+            {"text": "Falso.", "correct": false}
+        ],
+        "picture": "images/image193.png"
+    },
+    {
+        "question": "¿En qué ocasiones se permite el uso de la bocina?",
+        "answers": [
+            {"text": "Sólo para advertir una situación potencialmente de peligro.", "correct": true},
+            {"text": "Sólo para advertir de un sobrepaso.", "correct": false},
+            {"text": "Ambas respuestas, la A y la B, son incorrectas.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "Los objetos sueltos como lentes, celular, llaves o similares resultan muy peligrosos en caso de incidentes o maniobras bruscas, porque pueden ocasionar una lesión grave producto de la energía cinética que poseen.",
+        "answers": [
+            {"text": "Verdadero.", "correct": true},
+            {"text": "False.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "¿En qué parte del vehículo es conveniente poner el equipaje?",
+        "answers": [
+            {"text": "Lo más pesado en el fondo del baúl, cerca del centro del auto. Eso ayuda a la estabilidad direccional y al comportamiento en las curvas.", "correct": true},
+            {"text": "Lo más pesado en el techo del vehículo, sujeto con sogas. Eso ayuda al centro de gravedad.", "correct": false},
+            {"text": "Lo más pesado en los asientos traseros (si es que se viaja sin ocupantes en esa zona). Eso ayuda a la estabilidad direccional.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "Según la Ley N° 2148, ¿es obligatorio llevar un chaleco de material reflectivo?",
+        "answers": [
+            {"text": "No es obligatorio pero es recomendable llevarlo por sí se necesita utilizarlo frente a algún desperfecto mecánico.", "correct": false},
+            {"text": "Sí, es obligatorio y puede ser llevado en cualquier parte del vehículo.", "correct": false},
+            {"text": "Sí, es obligatorio y debe ser llevado dentro del habitáculo para poder utilizarlo en caso de necesitar descender a la calzada, frente a alguna causa de fuerza mayor.", "correct": true}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "¿Quién es el responsable frente a la autoridad de control, si uno de los pasajeros del automóvil no lleva puesto el cinturón de seguridad?",
+        "answers": [
+            {"text": "El tomador del seguro.", "correct": false},
+            {"text": "El pasajero, si es mayor de edad.", "correct": false},
+            {"text": "El conductor.", "correct": true}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "Este elemento de seguridad pasiva sirve para reducir el daño producido a los ocupantes de un vehículo al momento de un siniestro.",
+        "answers": [
+            {"text": "Verdadero.", "correct": true},
+            {"text": "Falso.", "correct": false}
+        ],
+        "picture": "images/image194.png"
+    },
+    {
+        "question": "Este elemento de seguridad...",
+        "answers": [
+            {"text": "Permite prescindir del uso del cinturón de seguridad.", "correct": false},
+            {"text": "Complementa el uso del cinturón de seguridad.", "correct": true},
+            {"text": "Es incompatible con el uso del cinturón de seguridad.", "correct": false}
+        ],
+        "picture": "images/image194.png"
+    },
+    {
+        "question": "Durante un siniestro, si el conductor del vehículo no lleva puesto el cinturón de seguridad, el airbag...",
+        "answers": [
+            {"text": "Le salvará la vida ya que puede sustituir al cinturón de seguridad.", "correct": false},
+            {"text": "Evitará que sufra lesiones, siempre y cuando el siniestro se produzca a menos de 80 km/h.", "correct": false},
+            {"text": "Puede provocar lesiones graves.", "correct": true}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "Según la Ley Nº 2148, ¿es correcto que un niño de 11 años utilice un Sistema de Retención Infantil, en este asiento central?",
+        "answers": [
+            {"text": "Sí, ya que por su edad debe utilizarlo y las características del cinturón de seguridad (3 puntos) permite ajustarlo correctamente.", "correct": true},
+            {"text": "No, sólo puede utilizar el sistema de Retención Infantil en asientos laterales.", "correct": false},
+            {"text": "Es indistinto, ya que al tener más de 10 años no es obligatorio que utilice el Sistema de Retención Infantil.", "correct": false}
+        ],
+        "picture": "images/image195.png"
+    },
+    {
+        "question": "Según Ley N° 2148, ¿cuál es la edad mínima permitida para viajar en el asiento delantero de acompañante en un auto?",
+        "answers": [
+            {"text": "10 años.", "correct": false},
+            {"text": "11 años.", "correct": false},
+            {"text": "12 años.", "correct": true}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "¿Es correcta la colocación del dispositivo de retención infantil en este vehículo?",
+        "answers": [
+            {"text": "Sí, salvo en rutas nacionales.", "correct": false},
+            {"text": "Sí, siempre y cuando esté debidamente ajustado.", "correct": false},
+            {"text": "No, ya que estos dispositivos deben ir colocados en los asientos traseros.", "correct": true}
+        ],
+        "picture": "images/image196.png"
+    },
+    {
+        "question": "En la siguiente imagen, ¿es correcta la colocación del dispositivo de retención infantil para un niño de 7 años?",
+        "answers": [
+            {"text": "Sí, ya que se encuentra bien ajustado y en el asiento trasero.", "correct": false},
+            {"text": "No, ya que la orientación “a contra marcha” de los SRI es sólo para los grupos 0 y 0+ y 1 de SRI según indique su fabricante y este niño supera la edad para esos grupos.", "correct": true},
+            {"text": "Sí, ya que la orientación “a contra marcha” reduce el efecto “latigazo” en caso de un siniestro.", "correct": false}
+        ],
+        "picture": "images/image197.png"
+    },
+    {
+        "question": "¿Es correcta la manera en que utiliza el Sistema de Retención Infantil (SRI) esta niña?",
+        "answers": [
+            {"text": "Sí, ya que se encuentra sentada en un SRI, en el asiento trasero.", "correct": false},
+            {"text": "No, ya que la niña debería ubicarse “a contra marcha” para reducir el efecto “latigazo”.", "correct": false},
+            {"text": "No, ya que la niña no utiliza el cinturón de seguridad del SRI.", "correct": true}
+        ],
+        "picture": "images/image198.png"
+    }, 
+    {
+        "question": "El apoyacabeza está correctamente ubicado en función del conductor.",
+        "answers": [
+            {"text": "Verdadero.", "correct": true},
+            {"text": "Falso.", "correct": false}
+        ],
+        "picture": "images/image199.png"
+    },
+    {
+        "question": "¿Es obligatoria la utilización de este elemento en todos los asientos del automóvil?",
+        "answers": [
+            {"text": "Sí. Lo establece la normativa para evitar lesiones graves en la zona cervical.", "correct": true},
+            {"text": "No en todos, para los asientos traseros no cumplen ninguna función.", "correct": false},
+            {"text": "No, ya que no forma parte de la seguridad activa ni pasiva de los vehículos.", "correct": false}
+        ],
+        "picture": "images/image200.png"
+    },
+    {
+        "question": "Frente a un siniestro, ¿qué puede evitar este elemento si está correctamente ubicado?",
+        "answers": [
+            {"text": "Nada en especial, dado que sólo es un elemento de confort.", "correct": false},
+            {"text": "Lesiones en la zona cervical.", "correct": true},
+            {"text": "Lesiones en el tórax.", "correct": false}
+        ],
+        "picture": "images/image201.png"
+    },
+    {
+        "question": "¿Todos los ocupantes del vehículo viajan de manera correcta?",
+        "answers": [
+            {"text": "Sí, ya que la obligación del uso del cinturón de seguridad alcanza sólo al conductor.", "correct": false},
+            {"text": "Sí, ya que la obligación del uso del cinturón de seguridad alcanza sólo a las personas que se trasladen en los asientos delanteros.", "correct": false},
+            {"text": "No, porque la obligación del uso del cinturón de seguridad es para todas las personas transportadas.", "correct": true}
+        ],
+        "picture": "images/image202.png"
+    },
+    {
+        "question": "Luego de un largo viaje en ruta, realizó una parada y le faltan muy pocos kilómetros para llegar a destino, ¿es necesario que todos los ocupantes vuelvan a ponerse el cinturón de seguridad?",
+        "answers": [
+            {"text": "No, sólo es obligatorio para los que se ubiquen en los asientos delanteros.", "correct": false},
+            {"text": "No, porque se está por llegar a destino.", "correct": false},
+            {"text": "Sí, porque su uso es obligatorio para todos los ocupantes.", "correct": true}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "¿Cuál de estas imágenes muestra el uso adecuado del cinturón de seguridad durante el embarazo?",
+        "answers": [
+            {"text": "Imagen A.", "correct": false},
+            {"text": "Imagen B.", "correct": true}
+        ],
+        "picture": "images/image203.png"
+    },
+    {
+        "question": "Según Ley N° 2148, ¿en qué plazas deben viajar los mayores de 12 años y con altura igual o superior a 1.50 mts.?",
+        "answers": [
+            {"text": "En cualquier asiento pero siempre con el cinturón de seguridad debidamente sujeto.", "correct": true},
+            {"text": "Sólo en las plazas traseras con cinturón de seguridad debidamente sujeto.", "correct": false},
+            {"text": "Sólo en dispositivo de retención infantil correspondiente a peso y talla, debidamente homologado.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "¿Esta persona tiene el cinturón correctamente colocado?",
+        "answers": [
+            {"text": "No, porque pasa por el abdomen y debería hacerlo por los huesos de la cadera.", "correct": true},
+            {"text": "No, porque pasa por el abdomen y debería hacerlo por los muslos.", "correct": false},
+            {"text": "Sí, porque pasa por la clavícula y el abdomen.", "correct": false}
+        ],
+        "picture": "images/image204.png"
+    },
+    {
+        "question": "¿Cuál es la correcta posición del uso de la banda inferior del cinturón de seguridad de tres puntas?",
+        "answers": [
+            {"text": "Opción A.", "correct": true},
+            {"text": "Opción B.", "correct": false},
+            {"text": "Ambas opciones, A y B, son correctas.", "correct": false}
+        ],
+        "picture": "images/image205.png"
+    },
+    {
+        "question": "Los ocupantes de este vehículo ¿viajan de manera segura?",
+        "answers": [
+            {"text": "Sí, ya que las personas se encuentran con cinturón de seguridad.", "correct": false},
+            {"text": "No, ya que por normativa no está permitido trasladar mascotas en un automóvil particular.", "correct": false},
+            {"text": "No, ya que las mascotas deben ser transportadas en los asientos traseros sujetos con arnés o sistema de retención correspondiente.", "correct": true}
+        ],
+        "picture": "images/image206.png"
+    }
+]

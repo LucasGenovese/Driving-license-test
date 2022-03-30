@@ -1,0 +1,2148 @@
+[
+    {
+        "question": "¿Consumir cuál de estas sustancias pueden afectar la capacidad para conducir?",
+        "answers": [
+            {"text": "Las drogas ilegales y algunas legales (como el alcohol y algunos medicamentos).", "correct": true},
+            {"text": "Sólo las drogas ilegales.", "correct": false},
+            {"text": "Todo tipo de drogas (las legales e ilegales).", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "La persona que conduce bajo los efectos de estupefacientes…",
+        "answers": [
+            {"text": "Se pone en grave riesgo a sí mismo y a todos los que lo rodean.", "correct": true},
+            {"text": "Sólo pone en riesgo su propia vida.", "correct": false},
+            {"text": "Al estar desinhibido, asume menos riesgos.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "¿Cuál de estas sustancias pueden afectar negativamente la capacidad de conducir?",
+        "answers": [
+            {"text": "Todos los medicamentos, de venta libre, que no necesitan receta.", "correct": false},
+            {"text": "Todos los medicamentos con efectos sedantes.", "correct": true},
+            {"text": "Ambas respuestas, la A y la B, son correctas.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "Por los efectos que provoca, el consumo de drogas ilegales no está permitido al momento de conducir; mientras que las drogas legales nunca afectan negativamente la capacidad de conducir.",
+        "answers": [
+            {"text": "Verdadero.", "correct": false},
+            {"text": "Falso.", "correct": true}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "Una vez que dejó de ingerir alcohol, ¿qué sucede con la concentración de alcohol que tiene en su organismo?",
+        "answers": [
+            {"text": "Comienza a disminuir de forma inmediata", "correct": false},
+            {"text": "Continúa subiendo durante 1 hora y luego comienza a descender paulatinamente.", "correct": true},
+            {"text": "Se mantiene en el mismo valor durante 1 hora y luego comienza a descender.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "Consumir cerveza influye en la conducción de un vehículo, haciendo que el conductor reduzca su capacidad de reacción y aumentando el tiempo necesario para responder ante un estímulo.",
+        "answers": [
+            {"text": "Verdadero.", "correct": true},
+            {"text": "Falso.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "Conducir al día siguiente de una noche de consumo excesivo de alcohol es riesgoso porque:",
+        "answers": [
+            {"text": "Los efectos del alcohol no terminan con la ingesta, sino que se extienden hasta haberlo eliminado del organismo.", "correct": false},
+            {"text": "Conducir con resaca es equiparable, por sus efectos en el organismo, a conducir alcoholizado.", "correct": false},
+            {"text": "Ambas respuestas, la A y la B, son correctas.", "correct": true}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "¿La resaca tiene efectos en el organismo que puedan afectar la conducción?",
+        "answers": [
+            {"text": "Sí, pero sólo cuando la bebida alcohólica que se ingirió tiene un alto grado de concentración.", "correct": false},
+            {"text": "No, el nivel de alcohol se ve reducido en cuestión de horas, por ello conducir con resaca no altera las percepciones.", "correct": false},
+            {"text": "Sí, puede afectar la coordinación, la atención y el tiempo de reacción.", "correct": true}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "Si un conductor de un automóvil particular obtiene el siguiente resultado en un control de alcoholemia realizado en la Ciudad Autónoma de Buenos Aires, ¿cómo debe proceder la autoridad de control de tránsito?",
+        "answers": [
+            {"text": "Sancionar la falta administrativa y contravencional, retener la licencia de conducir y remitir el vehículo.", "correct": true},
+            {"text": "Esperar un tiempo prudencial y realizar una contraprueba, a la espera de que descienda la graduación alcohólica.", "correct": false},
+            {"text": "Darle la opción al conductor de llamar a un tercero para que se haga responsable de la conducción del vehículo.", "correct": false}
+        ],
+        "picture": "images/image47.png"
+    },
+    {
+        "question": "Si el conductor de un vehículo se niega a realizar este test, ¿constituye ésto una falta?",
+        "answers": [
+            {"text": "Sólo si se ha participado de un siniestro vial.", "correct": false},
+            {"text": "No. Sólo la prueba positiva, efectivamente realizada, se considera una falta.", "correct": false},
+            {"text": "Sí, la misma se toma como una presunción de alcoholemia positiva.", "correct": true}
+        ],
+        "picture": "images/image48.png"
+    },
+    {
+        "question": "Frente a la negativa por parte del conductor a realizar una prueba de alcoholemia, ¿el agente de control podrá prohibirle continuar conduciendo?",
+        "answers": [
+            {"text": "Sí, ya que se presume el estado de alcoholemia positiva.", "correct": false},
+            {"text": "Sí, deberá ordenar la remoción del vehículo.", "correct": false},
+            {"text": "Ambas respuestas, la A y la B, son correctas.", "correct": true}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "De acuerdo al siguiente símbolo, ¿por cuánto tiempo tiene prohibido conducir con más de 0,0 gramos de alcohol por litro de sangre el conductor de este vehículo?",
+        "answers": [
+            {"text": "2 años.", "correct": true},
+            {"text": "1 año.", "correct": false},
+            {"text": "6 meses.", "correct": false}
+        ],
+        "picture": "images/image49.png"
+    },
+    {
+        "question": "¿Cuál es el nivel máximo de alcoholemia admitido para el conductor del vehículo que se visualiza en la imagen?",
+        "answers": [
+            {"text": "0,5 gramos de alcohol por litro de sangre.", "correct": true},
+            {"text": "0,0 gramos de alcohol por litro de sangre.", "correct": false},
+            {"text": "0,2 gramos de alcohol por litro de sangre.", "correct": false}
+        ],
+        "picture": "images/image50.png"
+    },
+    {
+        "question": "¿Cada cuánto tiempo es recomendable parar si se realiza un viaje largo?",
+        "answers": [
+            {"text": "Cada 2 horas aproximadamente.", "correct": true},
+            {"text": "Cada 4 horas aproximadamente.", "correct": false},
+            {"text": "Cada 1 horas aproximadamente.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "Si se va a conducir por un largo tiempo, lo recomendable es dormir la noche anterior...",
+        "answers": [
+            {"text": "Aproximadamente 8 horas.", "correct": true},
+            {"text": "Al menos 4 horas.", "correct": false},
+            {"text": "Algunas horas, su cantidad no influye en la conducción ya que lo importante es realizar paradas de descanso.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "¿Estar 17 horas despierto provoca tener el mismo nivel de reacción que una persona con un nivel de alcohol en sangre mayor al permitido por Ley?",
+        "answers": [
+            {"text": "Sí, ya que ambas condiciones aumentan el tiempo de reacción.", "correct": true},
+            {"text": "No, ya que sólo tener alcoholemia positiva aumenta el tiempo de reacción.", "correct": false},
+            {"text": "No, el descanso no tiene nada que ver con el consumo de alcohol.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "El cansancio puede verse inducido por ingerir:",
+        "answers": [
+            {"text": "Bebidas alcohólicas", "correct": false},
+            {"text": "Comidas abundantes.", "correct": false},
+            {"text": "Ambas respuestas, la A y la B, son correctas.", "correct": true}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "¿Cuáles de éstos son los síntomas que advierten sobre la fatiga en la conducción?",
+        "answers": [
+            {"text": "La sensación de euforia.", "correct": false},
+            {"text": "La visión borrosa y el aumento del número y duración de parpadeos.", "correct": true},
+            {"text": "No realizar movimientos en el asiento, ni cambios de postura.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "Un conductor principiante, ¿puede sentirse más fácilmente fatigado?",
+        "answers": [
+            {"text": "Sí, por la falta de experiencia en la conducción.", "correct": true},
+            {"text": "No, porque todos somos iguales ante la Ley.", "correct": false},
+            {"text": "Únicamente cuando se trata de una persona que padece de fatiga crónica.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "Porque reduce la capacidad de reacción y aumenta el tiempo necesario para responder ante un estímulo.",
+        "answers": [
+            {"text": "Porque reduce la capacidad de reacción y aumenta el tiempo necesario para responder ante un estímulo.", "correct": true},
+            {"text": "Porque se circula más rápido.", "correct": false},
+            {"text": "Porque el viaje dura más.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "¿Qué consecuencias tiene conducir habiendo dormido pocas horas previamente?",
+        "answers": [
+            {"text": "Reduce la capacidad de reacción y el estado de alerta.", "correct": false},
+            {"text": "Predispone a tomar malas decisiones, poniendo en riesgo la vida.", "correct": false},
+            {"text": "Ambas respuestas, la A y la B, son correctas.", "correct": true}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "Para evitar o retrasar la aparición de la fatiga, es aconsejable que el conductor:",
+        "answers": [
+            {"text": "Escuche música a alto volúmen.", "correct": false},
+            {"text": "Mantenga el interior del vehículo a una temperatura superior a 25 °C.", "correct": false},
+            {"text": "Mantenga bien ventilado el interior del vehículo.", "correct": true}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "¿Puede afectar negativamente la conducción, si el acompañante comienza una discusión con el conductor o con otra persona de la vía pública?",
+        "answers": [
+            {"text": "Sólo si es con el conductor. Si la discusión es con otra persona, lo mantiene en alerta ya que la tensión evita la somnolencia.", "correct": false},
+            {"text": "Sí, puede entorpecer su capacidad de atención al contexto, ya que las discusiones generan un estado de estrés.", "correct": true},
+            {"text": "No genera ningún efecto, siempre y cuando el conductor esté en condiciones legales para conducir.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "Bajo los efectos del estrés, la conducción se vuelve:",
+        "answers": [
+            {"text": "Más temeraria.", "correct": false},
+            {"text": "Menos segura.", "correct": false},
+            {"text": "Ambas respuestas, A y B, son correctas.", "correct": true}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "El estrés no necesariamente puede alterar las capacidades para conducir de manera segura.",
+        "answers": [
+            {"text": "Verdadero.", "correct": false},
+            {"text": "Falso.", "correct": true}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "El estrés no necesariamente puede alterar las capacidades para conducir de manera segura.",
+        "answers": [
+            {"text": "¿Cuál es el tiempo promedio de reacción de un conductor desde que percibe un peligro hasta que acciona el freno?", "correct": true},
+            {"text": "Entre 2 y 3 segundos.", "correct": false},
+            {"text": "Es inmediato, no transcurre tiempo entre estas acciones.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "Durante esta situación, ¿es riesgoso que el conductor utilice el teléfono celular?",
+        "answers": [
+            {"text": "No, ya que no hay otros vehículos junto a él.", "correct": false},
+            {"text": "Sí, ya que a pesar de estar detenido, está en la vía de circulación y su atención no está dirigida al contexto.", "correct": true},
+            {"text": "No, ya que el vehículo no está en movimiento.", "correct": false}
+        ],
+        "picture": "images/image51.png"
+    },
+    {
+        "question": "¿Cuál de estos sistemas de comunicación telefónica no es considerado riesgoso al momento de conducir un vehículo?",
+        "answers": [
+            {"text": "Opción A. Ya que al utilizar un sólo auricular la audición no se encuentra afectada.", "correct": false},
+            {"text": "Opción B. Ya que al activar el manos libres las manos quedan disponibles para la conducción.", "correct": false},
+            {"text": "Ambos sistemas son riesgosos.", "correct": true}
+        ],
+        "picture": "images/image52.png"
+    },
+    {
+        "question": "La siguiente acción del conductor, ¿es considerada un factor de riesgo?",
+        "answers": [
+            {"text": "No, ya que el conductor no está utilizando sus manos para mantener una comunicación telefónica.", "correct": false},
+            {"text": "Sí, sólo cuando circula a altas velocidades.", "correct": false},
+            {"text": "Sí, porque interfiere en su atención al contexto.", "correct": true}
+        ],
+        "picture": "images/image53.png"
+    },
+    {
+        "question": "La siguiente acción del conductor es riesgosa porque:",
+        "answers": [
+            {"text": "Disminuye su capacidad atencional, limita el sentido de la audición, reduce la capacidad de reacción y aumenta el tiempo necesario para responder ante un estímulo.", "correct": false},
+            {"text": "El conductor debe mantener ambas manos comprometidas en la acción de conducir y al manipularlo, reduciría su capacidad para maniobrar.", "correct": false},
+            {"text": "Ambas respuestas, la A y la B, son correctas.", "correct": true}
+        ],
+        "picture": "images/image54.png"
+    },
+    {
+        "question": "¿Se encuentra prohibida la acción de la persona señalada con el círculo rojo?",
+        "answers": [
+            {"text": "Sí, porque se encuentra en el asiento delantero.", "correct": false},
+            {"text": "No, porque la prohibición del uso de telefonía celular alcanza sólo al conductor del vehículo.", "correct": true},
+            {"text": "Sí, su uso se encuentra prohibido para todos los ocupantes del vehículo.", "correct": false}
+        ],
+        "picture": "images/image55.png"
+    },
+    {
+        "question": "Si un conductor necesita realizar una llamada de urgencia con el teléfono celular, ¿qué debe hacer para no generar una situación de riesgo en la vía pública?",
+        "answers": [
+            {"text": "Colocar balizas y detenerse en un lugar donde esté permitido.", "correct": true},
+            {"text": "Ocupar el carril derecho, para circular a baja velocidad, y utilizar las balizas.", "correct": false},
+            {"text": "Al tratarse de una llamada de urgencia, no importa donde se realice.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "La presente conducta, ¿es riesgosa al momento de conducir?",
+        "answers": [
+            {"text": "Sí, porque es considerado un factor de distracción.", "correct": true},
+            {"text": "Únicamente si se circula a altas velocidades.", "correct": false},
+            {"text": "Al contrario, ayuda a mantener la atención en la conducción.", "correct": false}
+        ],
+        "picture": "images/image56.png"
+    },
+    {
+        "question": "¿Cuáles de las siguientes acciones son consideradas factores de distracción cuando se conduce un vehículo?",
+        "answers": [
+            {"text": "Las opciones A, B y C..", "correct": true},
+            {"text": "Las opciones A y C.", "correct": false},
+            {"text": "Las opciones B y C.", "correct": false}
+        ],
+        "picture": "images/image57.png"
+    },
+    {
+        "question": "Indique el orden de prioridad normativo que debe respetar (de mayor a menor jerarquía):",
+        "answers": [
+            {"text": "Normas legales de carácter general; Señalización; Indicaciones de la autoridad competente", "correct": false},
+            {"text": "Indicaciones de la autoridad competente; Señalización; Normas legales de carácter general.", "correct": true},
+            {"text": "Señalización; Normas legales de carácter general; Indicaciones de la autoridad competente.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "Si al llegar a un cruce se presentan estas 3 señales, ¿cuál de ellas tiene prioridad normativa por sobre las demás?",
+        "answers": [
+            {"text": "La opción A.", "correct": false},
+            {"text": "La opción B.", "correct": false},
+            {"text": "La opción C.", "correct": true}
+        ],
+        "picture": "images/image58.png"
+    },
+    {
+        "question": "Como conductor, ¿qué debe realizar frente a la siguiente situación?",
+        "answers": [
+            {"text": "Avanzar porque la luz verde del semáforo lo habilita.", "correct": false},
+            {"text": "Detenerse y esperar a la indicación del agente de tránsito para avanzar.", "correct": true},
+            {"text": "Avanzar sólo si no pasan vehículos en la intersección.", "correct": false}
+        ],
+        "picture": "images/image59.png"
+    },
+    {
+        "question": "¿Qué está indicando el agente de tránsito al realizar esta señal a un conductor?",
+        "answers": [
+            {"text": "Que circule con precaución.", "correct": false},
+            {"text": "Que detenga el vehículo.", "correct": true},
+            {"text": "Que continúe avanzando.", "correct": false}
+        ],
+        "picture": "images/image60.png"
+    },
+    {
+        "question": "Los Agentes de Tránsito pueden proceder a la detención de un vehículo únicamente con la presencia de personal policial.",
+        "answers": [
+            {"text": "Verdadero.", "correct": false},
+            {"text": "Falso.", "correct": true}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "Si al circular por una vía y la persona señalada le indica detenerse, ¿está obligado usted a obedecer?",
+        "answers": [
+            {"text": "Sí, porque al ser personal de obra está autorizado a regular el paso de vehículos en el tramo donde están trabajando.", "correct": true},
+            {"text": "Sólo si se percibe una situación riesgosa ya que el personal de obra no tiene la autoridad legal para realizar dicha indicación.", "correct": false},
+            {"text": "No, porque no tiene autoridad ya que la Ley sólo delega dicha función a los agentes de tránsito.", "correct": false}
+        ],
+        "picture": "images/image61.png"
+    },
+    {
+        "question": "Si se encuentra en esta situación y el personal ferroviario le indica que avance, ¿qué debe hacer?",
+        "answers": [
+            {"text": "Avanzar porque el personal ferroviario está autorizado a regular el paso de vehículos.", "correct": true},
+            {"text": "Detenerme y esperar hasta que la barrera se levante porque el personal ferroviario no tiene la autoridad legal para realizar dicha indicación.", "correct": false},
+            {"text": "Detenerme y esperar hasta que la barrera se levante, salvo que la indicación sea realizada por un agente de tránsito ya que es la única autoridad competente.", "correct": false}
+        ],
+        "picture": "images/image62.png"
+    },
+    {
+        "question": "¿Qué indican las señales transitorias naranjas ubicadas en la calzada de la presente imagen?",
+        "answers": [
+            {"text": "Refuerzan el significado de las líneas discontinuas del carril porque es una zona peligrosa.", "correct": false},
+            {"text": "Nada, no son señales de circulación y es ilegal su colocación.", "correct": false},
+            {"text": "La prohibición de sobrepasar la línea imaginaria que las une.", "correct": true}
+        ],
+        "picture": "images/image63.png"
+    },
+    {
+        "question": "Las señales transitorias señalizan la ejecución de trabajos de construcción y mantenimiento en la vía, o en zonas próximas a las mismas:",
+        "answers": [
+            {"text": "Verdadero.", "correct": true},
+            {"text": "Falso.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "La señalización transitoria se encuentra como prioridad normativa sobre los semáforos, si es que modifica el régimen normal de uso de la vía.",
+        "answers": [
+            {"text": "Verdadero.", "correct": true},
+            {"text": "Falso.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "¿Qué tipo de señal es la siguiente imagen?",
+        "answers": [
+            {"text": "Reglamentaria.", "correct": false},
+            {"text": "Transitoria.", "correct": true},
+            {"text": "Informativa.", "correct": false}
+        ],
+        "picture": "images/image64.png"
+    },
+    {
+        "question": "Si al conducir un vehículo se encuentra en una intersección con esta señalización intermitente, ¿qué actitud debe tomar?",
+        "answers": [
+            {"text": "Tengo la obligación de detener la marcha y cuando no haya más vehículos circulando por la arteria que cruza, puedo reiniciarla.", "correct": false},
+            {"text": "Al tener prioridad, debo atravesarla rápidamente para no obstaculizar la vía.", "correct": false},
+            {"text": "Efectuar el cruce con máxima precaución.", "correct": true}
+        ],
+        "picture": "images/image65.png"
+    },
+    {
+        "question": "Si al conducir un vehículo se encuentra en una intersección con esta señalización intermitente, ¿qué actitud debe tomar?",
+        "answers": [
+            {"text": "Detener la marcha y realizar el cruce cuando se tenga la certeza de que no existe riesgo alguno.", "correct": true},
+            {"text": "Al tener prioridad, debo atravesarla rápidamente para no obstaculizar la vía.", "correct": false},
+            {"text": "Extremar precauciones al cruzar sin la necesidad de detenerme.", "correct": false}
+        ],
+        "picture": "images/image66.png"
+    },
+    {
+        "question": "Frente a esta situación, ¿qué debe hacer el conductor del vehículo señalado con el círculo rojo?",
+        "answers": [
+            {"text": "Avanzar si es que el vehículo que cruza lo hace lentamente porque la prioridad de paso está dada por la luz verde.", "correct": false},
+            {"text": "No iniciar el cruce, hasta que el otro vehículo haya completado el suyo.", "correct": true},
+            {"text": "Avanzar rápidamente si el vehículo que cruza todavía no llegó a mitad del cruce, de esa manera se deja libre la intersección.", "correct": false}
+        ],
+        "picture": "images/image67.png"
+    },
+    {
+        "question": "Cuando un semáforo cambia de luz roja a verde, está habilitando a reiniciar la marcha; no obstante ello, ¿qué precauciones se deben adoptar?",
+        "answers": [
+            {"text": "No iniciar el cruce si no hay espacio para ubicar el vehículo del otro lado sin obstruir la circulación transversal.", "correct": false},
+            {"text": "Permitir, antes de avanzar, que complete el cruce otro vehículo o peatón que ya lo haya iniciado.", "correct": false},
+            {"text": "Ambas respuestas, la A y la B, son correctas.", "correct": true}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "Una indicación puede estar expresada con una señal vertical o con una demarcación horizontal, ya que ambas tienen el mismo significado y orden jerárquico.",
+        "answers": [
+            {"text": "Verdadero.", "correct": true},
+            {"text": "Falso.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "¿Qué indica esta demarcación amarilla en la calzada?",
+        "answers": [
+            {"text": "Que es un sector destinado a la detención y al estacionamiento de vehículos.", "correct": false},
+            {"text": "Que se debe circular lentamente por su sector central.", "correct": false},
+            {"text": "Que no se debe circular sobre ella.", "correct": true}
+        ],
+        "picture": "images/image68.png"
+    },
+    {
+        "question": "En materia de señalamiento horizontal, ¿qué se entiende por “isleta”?",
+        "answers": [
+            {"text": "Son las rotondas.", "correct": false},
+            {"text": "Son los espacios reservados para estacionamiento exclusivo de motovehículos.", "correct": false},
+            {"text": "Son las marcas canalizadoras de tránsito. No se puede traspasar o circular sobre ellas.", "correct": true}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "¿Qué significa esta demarcación amarilla en la calzada?",
+        "answers": [
+            {"text": "Es una señalización que se utiliza únicamente para dividir los carriles de la vía.", "correct": false},
+            {"text": "Indica, para ambos sentidos de circulación, que no debe ser traspasada ni se puede circular sobre ella.", "correct": true},
+            {"text": "Significa que sólo pueden circular vehículos particulares.", "correct": false}
+        ],
+        "picture": "images/image69.png"
+    },
+    {
+        "question": "En la siguiente imagen, ¿qué indican las líneas centrales de la calzada señaladas?",
+        "answers": [
+            {"text": "Que se pueden traspasar.", "correct": true},
+            {"text": "Que está prohibido traspasarlas.", "correct": false},
+            {"text": "Que es una zona de máximo peligro.", "correct": false}
+        ],
+        "picture": "images/image70.png"
+    },
+    {
+        "question": "Según la Ley Nº 2148, ¿qué indica la siguiente demarcación horizontal?",
+        "answers": [
+            {"text": "Que está prohibido estacionar, pudiendo efectuarse la detención para ascenso y descenso de pasajeros.", "correct": false},
+            {"text": "Que es un espacio reservado al estacionamiento exclusivo de vehículos destinados al servicio de emergencia.", "correct": false},
+            {"text": "Que está prohibido estacionar o detenerse paralelo al cordón.", "correct": true}
+        ],
+        "picture": "images/image71.png"
+    },
+    {
+        "question": "Según la Ley N° 2148, ¿qué indica un cordón pintado de este color?",
+        "answers": [
+            {"text": "Área reservada de estacionamiento exclusivo de ciclorodados (bicicletas) y motovehículos.", "correct": true},
+            {"text": "Lugar reservado para ascenso y descenso de pasajeros.", "correct": false},
+            {"text": "Zona exclusiva para carga y descarga de mercaderías.", "correct": false}
+        ],
+        "picture": "images/image72.png"
+    },
+    {
+        "question": "Según la Ley Nº 2148, ¿qué indica la siguiente demarcación horizontal?",
+        "answers": [
+            {"text": "Que sólo está prohibido estacionar, pudiendo efectuarse detenciones.", "correct": true},
+            {"text": "Que es un lugar reservado para el estacionamiento exclusivo de vehículos destinados al transporte de pasajeros.", "correct": false},
+            {"text": "Que está prohibido estacionar o detenerse al costado de la vereda.", "correct": false}
+        ],
+        "picture": "images/image73.png"
+    },
+    {
+        "question": "¿Cuál es la importancia del color de las señales viales?",
+        "answers": [
+            {"text": "El color es para llamar la atención al conductor de categoría particular.", "correct": false},
+            {"text": "El color es irrelevante para el conductor particular pero sí para el conductor profesional.", "correct": false},
+            {"text": "El color, además de su forma, brinda información al conductor sobre el trayecto de la vía por la cual circula.", "correct": true}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "¿Cuáles son las señales preventivas?",
+        "answers": [
+            {"text": "Aquellas que advierten la proximidad de una circunstancia o variación de la normalidad de la vía que puede resultar sorpresiva o peligrosa a la circulación.", "correct": true},
+            {"text": "Aquellas que no transmiten órdenes ni previenen sobre irregularidades o riesgos en la vía. Identifican, orientan y hacen referencia a servicios, lugares, etc.", "correct": false},
+            {"text": "Aquellas que transmiten órdenes específicas, de cumplimiento obligatorio en el lugar para el cual están destinadas.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "¿Qué indican las señales reglamentarias?",
+        "answers": [
+            {"text": "Advierten la proximidad de una circunstancia o variación de la normalidad de la vía que puede resultar sorpresiva o peligrosa a la circulación.", "correct": false},
+            {"text": "Identifican, orientan y hacen referencia a servicios, lugares, etc.", "correct": false},
+            {"text": "Transmiten órdenes específicas, de cumplimiento obligatorio en el lugar para el cual están destinadas.", "correct": true}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "¿Cuál de estas señales comunica “Prevención”?",
+        "answers": [
+            {"text": "La señal A.", "correct": false},
+            {"text": "La señal B.", "correct": true},
+            {"text": "La señal C.", "correct": false}
+        ],
+        "picture": "images/image74.png"
+    },
+    {
+        "question": "¿De qué color es la cartelería de Permitido Estacionar?",
+        "answers": [
+            {"text": "Azul.", "correct": true},
+            {"text": "Blanco.", "correct": false},
+            {"text": "Rojo.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "¿Cuál de estas señales es Reglamentaria?",
+        "answers": [
+            {"text": "La señal A.", "correct": false},
+            {"text": "La señal B.", "correct": true},
+            {"text": "La señal C.", "correct": false}
+        ],
+        "picture": "images/image75.png"
+    },
+    {
+        "question": "¿Cuál de estas señales es Reglamentaria?",
+        "answers": [
+            {"text": "La señal A.", "correct": false},
+            {"text": "La señal B.", "correct": false},
+            {"text": "La señal C.", "correct": true}
+        ],
+        "picture": "images/image76.png"
+    },
+    {
+        "question": "¿Cuál de estas señales es Informativa?",
+        "answers": [
+            {"text": "La señal A.", "correct": true},
+            {"text": "La señal B.", "correct": false},
+            {"text": "La señal C.", "correct": false}
+        ],
+        "picture": "images/image77.png"
+    },
+    {
+        "question": "Indique qué tipo de señal es la que a continuación se muestra:",
+        "answers": [
+            {"text": "Preventiva.", "correct": false},
+            {"text": "Reglamentaria.", "correct": false},
+            {"text": "Informativa.", "correct": true}
+        ],
+        "picture": "images/image78.png"
+    },
+    {
+        "question": "¿Cuál de las siguientes imágenes, por forma y color, corresponde a la señal indicativa de una rotonda o pendiente pronunciada?",
+        "answers": [
+            {"text": "Figura A.", "correct": false},
+            {"text": "Figura B.", "correct": false},
+            {"text": "Figura C.", "correct": true}
+        ],
+        "picture": "images/image79.png"
+    },
+    {
+        "question": "¿Cuál de las siguientes imágenes, por forma y color, corresponde a la señal indicativa de estar próximo a una zona afectada por obras?",
+        "answers": [
+            {"text": "Figura A.", "correct": false},
+            {"text": "Figura B.", "correct": true},
+            {"text": "Figura C.", "correct": false}
+        ],
+        "picture": "images/image80.png"
+    },
+    {
+        "question": "Frente a la siguiente situación de emergencia, ¿qué deben hacer los conductores que circulen en su proximidad?",
+        "answers": [
+            {"text": "Aumentar la velocidad para no ser un obstáculo a este vehículo.", "correct": false},
+            {"text": "Avisar a otros conductores de la presencia de este vehículo, usando repetidamente la bocina.", "correct": false},
+            {"text": "Dar lugar a este vehículo, despejar el carril de emergencias y si fuera necesario detenerse.", "correct": true}
+        ],
+        "picture": "images/image81.png"
+    },
+    {
+        "question": "El siguiente símbolo indica que se trata de un carril que debe ser liberado cuando se aproxima un vehículo en emergencia.",
+        "answers": [
+            {"text": "Verdadero.", "correct": true},
+            {"text": "Falso.", "correct": false}
+        ],
+        "picture": "images/image82.png"
+    },
+    {
+        "question": "Frente a la siguiente situación de emergencia, ¿hacia qué sector es recomendable que se aparten los vehículos de la imagen para facilitar el paso a la ambulancia?",
+        "answers": [
+            {"text": "Ambos hacia su derecha.", "correct": false},
+            {"text": "El único que debería apartarse es el auto 2 hacia su derecha.", "correct": false},
+            {"text": "El auto 1 hacia su izquierda y el 2 hacia su derecha.", "correct": true}
+        ],
+        "picture": "images/image83.png"
+    },
+    {
+        "question": "Frente a la siguiente situación de emergencia, ¿hacia qué sector es recomendable que se aparten los vehículos de la imagen para facilitar el paso a la ambulancia?",
+        "answers": [
+            {"text": "El único que debería apartarse es el auto 2 hacia su derecha.", "correct": false},
+            {"text": "Todos hacia su derecha.", "correct": false},
+            {"text": "El auto 1 hacia su izquierda, mientras que el 2 y 3 hacia su derecha.", "correct": true}
+        ],
+        "picture": "images/image84.png"
+    },
+    {
+        "question": "Frente a la siguiente situación de emergencia, ¿qué deben hacer los conductores que circulen en su proximidad?",
+        "answers": [
+            {"text": "Aumentar la velocidad para no ser un obstáculo a este vehículo.", "correct": false},
+            {"text": "Avisar a otros conductores de la presencia de este vehículo, usando repetidamente la bocina.", "correct": false},
+            {"text": "Dar lugar a este vehículo, despejar el carril de emergencias y si fuera necesario detenerse.", "correct": true}
+        ],
+        "picture": "images/image85.png"
+    },
+    {
+        "question": "Ud. se encuentra frente a la siguiente situación donde el conductor toca repetidamente la bocina, ¿qué debe hacer si se encuentra conduciendo en su proximidad?",
+        "answers": [
+            {"text": "Cederle el paso, ya que está indicando que se encuentra en emergencia.", "correct": true},
+            {"text": "Brindar mi colaboración, ya que está indicando que el vehículo tiene un desperfecto mecánico.", "correct": false},
+            {"text": "Alertar a otros conductores, tocando repetidamente la bocina, que ese vehículo cruzará un semáforo en rojo.", "correct": false}
+        ],
+        "picture": "images/image86.png"
+    },
+    {
+        "question": "En esta intersección sin semáforos, donde el conductor del vehículo realiza un giro a la derecha, ¿quién tiene prioridad de paso?",
+        "answers": [
+            {"text": "El automóvil, porque circula por la mano derecha.", "correct": false},
+            {"text": "El ciclista, porque el automóvil pierde la prioridad al querer girar.", "correct": true},
+            {"text": "El ciclista, porque al circular por la ciclovía siempre tiene prioridad.", "correct": false}
+        ],
+        "picture": "images/image87.png"
+    },
+    {
+        "question": "En un cruce de dos calles sin semáforo, frente a la siguiente situación, ¿quién tiene prioridad de paso?",
+        "answers": [
+            {"text": "El vehículo A, ya que está circulando por la derecha", "correct": false},
+            {"text": "Los vehículos B, ya que son varios los que circulan por esa calle.", "correct": false},
+            {"text": "El vehículo A, ya que está saliendo del paso a nivel ferroviario.", "correct": true}
+        ],
+        "picture": "images/image88.png"
+    },
+    {
+        "question": "En un cruce de dos calles sin semáforo, frente a la siguiente situación, ¿quién tiene prioridad de paso?",
+        "answers": [
+            {"text": "El vehículo A.", "correct": false},
+            {"text": "El vehículo B.", "correct": true}
+        ],
+        "picture": "images/image89.png"
+    },
+    {
+        "question": "¿Quién tiene prioridad de paso en el cruce de estas dos calles?",
+        "answers": [
+            {"text": "Los vehículos que circulan por la calle A.", "correct": true},
+            {"text": "Los vehículos que circulan por la calle B.", "correct": false}
+        ],
+        "picture": "images/image90.png"
+    },
+    {
+        "question": "¿Quién tiene prioridad de paso en el cruce de estas dos calles?",
+        "answers": [
+            {"text": "El vehículo A.", "correct": false},
+            {"text": "El vehículo B.", "correct": true}
+        ],
+        "picture": "images/image91.png"
+    },
+    {
+        "question": "¿Qué vehículo tiene prioridad de paso en esta intersección sin semáforo?",
+        "answers": [
+            {"text": "El vehículo A porque circula por una avenida.", "correct": true},
+            {"text": "El vehículo B porque circula por la derecha.", "correct": false},
+            {"text": "Es indistinto ya que es una esquina sin semáforo.", "correct": false}
+        ],
+        "picture": "images/image92.png"
+    },
+    {
+        "question": "Al conducir un vehículo y llegar a esta intersección, ¿cómo debe proceder frente a esta señal?",
+        "answers": [
+            {"text": "Disminuir un poco la velocidad y mirar que no se acerquen vehículos por la vía a la que se va a incorporar.", "correct": false},
+            {"text": "Reducir la velocidad y detener el vehículo antes de la senda peatonal.", "correct": true},
+            {"text": "Avanzar.", "correct": false}
+        ],
+        "picture": "images/image93.png"
+    },
+    {
+        "question": "Estas señales son las únicas que indican que se pierde la prioridad de paso en una bocacalle sin semáforo.",
+        "answers": [
+            {"text": "Verdadero.", "correct": true},
+            {"text": "Falso.", "correct": false}
+        ],
+        "picture": "images/image94.png"
+    },
+    {
+        "question": "De acuerdo a la Ley N° 2148, en encrucijadas sin semáforos, ¿cuál es el orden de prioridad de paso según el tipo de arteria?",
+        "answers": [
+            {"text": "1° Pasaje - 2° Calle - 3° Avenida.", "correct": false},
+            {"text": "1° Avenida - 2° Calle - 3° Pasaje.", "correct": true},
+            {"text": "Es indistinto, ya que el vehículo que circula por la derecha siempre tiene prioridad.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "Como norma de carácter general, ¿quién tiene prioridad de paso en una encrucijada sin semáforos?",
+        "answers": [
+            {"text": "Los vehículos de transporte de pasajero.", "correct": false},
+            {"text": "El vehículo de menor tamaño.", "correct": false},
+            {"text": "El vehículo que se presenta por el lado derecho.", "correct": true}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "En la siguiente situación, ¿a quién le corresponde la prioridad de paso?",
+        "answers": [
+            {"text": "Al automóvil.", "correct": false},
+            {"text": "Al colectivo.", "correct": true},
+            {"text": "Es indistinto.", "correct": false}
+        ],
+        "picture": "images/image95.png"
+    },
+    {
+        "question": "Frente a esta situación de obstrucción de vía, ¿qué debe hacer el conductor del vehículo señalado?",
+        "answers": [
+            {"text": "Debe ceder el paso al vehículo que circula en el sentido contrario.", "correct": true},
+            {"text": "Tiene prioridad de paso sobre el otro vehículo.", "correct": false},
+            {"text": "La normativa no establece prioridad de paso ante esta situación.", "correct": false}
+        ],
+        "picture": "images/image96.png"
+    },
+    {
+        "question": "En la siguiente situación, ¿a quién le corresponde la prioridad de paso?",
+        "answers": [
+            {"text": "Al vehículo A, ya que circula por la derecha.", "correct": false},
+            {"text": "Al vehículo B, ya que circula por una avenida.", "correct": true},
+            {"text": "Es indistinto.", "correct": false}
+        ],
+        "picture": "images/image97.png"
+    },
+    {
+        "question": "¿Quién tiene prioridad de paso en una rotonda?",
+        "answers": [
+            {"text": "El vehículo que circule por la derecha.", "correct": false},
+            {"text": "El vehículo que pretende acceder a la rotonda.", "correct": false},
+            {"text": "El vehículo que se encuentra dentro de la calzada circular.", "correct": true}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "En esta situación, donde hay una calzada circular, ¿quién tiene la prioridad de paso?",
+        "answers": [
+            {"text": "El vehículo A.", "correct": false},
+            {"text": "El vehículo B.", "correct": true},
+            {"text": "Es indistinto.", "correct": false}
+        ],
+        "picture": "images/image98.png"
+    },
+    {
+        "question": "Como norma general, en una arteria de doble circulación, con pendiente pronunciada y con un ancho que no permite la circulación simultánea de dos vehículos, ¿quién tiene la prioridad de paso?",
+        "answers": [
+            {"text": "El vehículo que desciende.", "correct": false},
+            {"text": "El vehículo que asciende.", "correct": true},
+            {"text": "No hay prioridad, cualquiera de ellos.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "En esta pendiente estrecha, ¿cuál de los dos vehículos tiene prioridad de paso?",
+        "answers": [
+            {"text": "El vehículo A.", "correct": false},
+            {"text": "El vehículo B.", "correct": true}
+        ],
+        "picture": "images/image99.png"
+    },
+    {
+        "question": "¿Cuándo se debe ceder el paso a los vehículos que desean incorporarse al tránsito desde el lugar donde estaban estacionados o desde un garaje?",
+        "answers": [
+            {"text": "Siempre, independientemente de cómo se encuentre el tránsito vehicular.", "correct": false},
+            {"text": "Cuando el tránsito se encuentra interrumpido por cualquier razón.", "correct": true},
+            {"text": "Nunca, independientemente de cómo se encuentre el tránsito vehicular.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "El vehículo señalizado quiere incorporarse al tránsito, ¿tiene prioridad de paso sobre los otros vehículos que están circulando por esta arteria?",
+        "answers": [
+            {"text": "No, porque los vehículos de la arteria, a la que se pretende ingresar, están circulando.", "correct": true},
+            {"text": "Sí, porque se encuentra a la derecha.", "correct": false},
+            {"text": "Sí, porque señalizó su maniobra.", "correct": false}
+        ],
+        "picture": "images/image100.png"
+    },
+    {
+        "question": "El vehículo señalizado quiere incorporarse al tránsito, ¿tiene prioridad de paso sobre los otros vehículos que están detenidos en la arteria?",
+        "answers": [
+            {"text": "No. La prioridad es de los otros vehículos, independientemente si están detenidos o circulando.", "correct": false},
+            {"text": "Sí, porque se encuentra el tránsito detenido y deben cederle el paso.", "correct": true},
+            {"text": "No. La Ley no menciona nada al respecto, sólo se expresa sobre las prioridades en intersecciones no semaforizadas.", "correct": false}
+        ],
+        "picture": "images/image101.png"
+    },
+    {
+        "question": "¿Cuáles de los siguientes vehículos NO se encuentran en infracción?",
+        "answers": [
+            {"text": "Sí, salvo que se acerque un vehículo en el sentido contrario.", "correct": false},
+            {"text": "No, ya que está prohibido por la demarcación horizontal.", "correct": true},
+            {"text": "Sí, haciendo las señales de luces correspondientes y si el vehículo que circula en sentido contrario está lejos.", "correct": false}
+        ],
+        "picture": "images/image102.png"
+    },
+    {
+        "question": "¿Cuáles de los siguientes vehículos NO se encuentran en infracción?",
+        "answers": [
+            {"text": "Los vehículos A y B.", "correct": false},
+            {"text": "Los vehículos A y C.", "correct": false},
+            {"text": "Los vehículos B y C.", "correct": true}
+        ],
+        "picture": "images/image103.png"
+    },
+    {
+        "question": "El vehículo A pretende cambiar de carril hacia su derecha, ¿cuál de los dos vehículos tiene prioridad?",
+        "answers": [
+            {"text": "El vehículo A.", "correct": false},
+            {"text": "El vehículo B.", "correct": false}
+        ],
+        "picture": "images/image104.png"
+    },
+    {
+        "question": "En este tipo de arteria, ¿quién tiene prioridad cuando se desea realizar un cambio de carril?",
+        "answers": [
+            {"text": "El vehículo que circula por el carril que se pretende ocupar.", "correct": true},
+            {"text": "El vehículo que realiza el cambio de carril.", "correct": false},
+            {"text": "El vehículo del carril más lento.", "correct": false}
+        ],
+        "picture": "images/image105.png"
+    },
+    {
+        "question": "Es obligatorio al finalizar un adelantamiento...",
+        "answers": [
+            {"text": "Permanecer en el carril ocupado, independientemente de la fluidez del tránsito.", "correct": false},
+            {"text": "Incorporarse al carril derecho, si éste se encuentra libre, de forma gradual y sin obstaculizar la fluidez de tránsito.", "correct": true},
+            {"text": "Incorporarse al carril derecho, aunque ésto implique que otro vehículo deba modificar su velocidad.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "¿Cuál de estos carriles es el llamado carril de sobrepaso",
+        "answers": [
+            {"text": "Cualquiera de ellos", "correct": false},
+            {"text": "Sólo el carril señalado como A.", "correct": true},
+            {"text": "Sólo el carril señalado como F.", "correct": false}
+        ],
+        "picture": "images/image106.png"
+    },
+    {
+        "question": "El vehículo, que circula por el carril destinado al tránsito lento, no puede abandonarlo para sobrepasar a otro vehículo que transita más lento.",
+        "answers": [
+            {"text": "Verdadero.", "correct": false},
+            {"text": "Falso.", "correct": true}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "El conductor del vehículo A quiere volver rápidamente al carril derecho porque ve ante él una situación de peligro, ¿qué debe hacer el conductor del vehículo B?",
+        "answers": [
+            {"text": "Aumentar la velocidad para que realice la maniobra detrás suyo.", "correct": false},
+            {"text": "Reducir la velocidad para facilitarle el retorno al carril.", "correct": true},
+            {"text": "Tocar bocina y hacer guiño de luces para indicarle que no debe realizar la maniobra.", "correct": false}
+        ],
+        "picture": "images/image107.png"
+    },
+    {
+        "question": "En este tramo de la vía no se puede realizar un sobrepaso",
+        "answers": [
+            {"text": "Verdadero.", "correct": true},
+            {"text": "Falso.", "correct": false}
+        ],
+        "picture": "images/image108.png"
+    },
+    {
+        "question": "Al advertir que está por ser sobrepasado, ¿cuál debería ser su actitud?",
+        "answers": [
+            {"text": "Circular por la banquina.", "correct": false},
+            {"text": "Circular por la derecha de la calzada y mantenerse. En el caso de ser necesario, reducir la velocidad.", "correct": true},
+            {"text": "Ambas respuestas, A y B, son correctas.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "¿Está permitido sobrepasar a otro vehículo en este lugar?",
+        "answers": [
+            {"text": "Sí, salvo que haya una señal que indique lo contrario.", "correct": false},
+            {"text": "No, está prohibido por normativa.", "correct": true},
+            {"text": "Sólo en el caso de que no perjudique la circulación de otros vehículos.", "correct": false}
+        ],
+        "picture": "image/image109.png"
+    },
+    {
+        "question": "Cuando varios vehículos circulan encolumnados, ¿cuál de ellos tiene prioridad para realizar el sobrepaso?",
+        "answers": [
+            {"text": "El que lo intente primero.", "correct": false},
+            {"text": "El último de la fila.", "correct": false},
+            {"text": "El que circula más próximo al vehículo que se desea sobrepasar.", "correct": true}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "Según la Ley N°2148, ¿qué significa el término sobrepaso?",
+        "answers": [
+            {"text": "Sobrepasar la línea de otro vehículo en circulación, sin necesidad de cambiar de carril.", "correct": false},
+            {"text": "Sobrepasar la línea de otro vehículo en circulación, cambiando de carril.", "correct": true},
+            {"text": "Exceder el límite de velocidad máxima.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "¿Qué peligro debe preverse al sobrepasar un colectivo detenido?",
+        "answers": [
+            {"text": "Que los peatones, ocultos por el colectivo, puedan cruzar por delante o por detrás de éste.", "correct": true},
+            {"text": "Que los pasajeros bajen por la parte izquierda del colectivo detenido.", "correct": false},
+            {"text": "Ninguno, mientras no sobrepase la velocidad máxima permitida por la Ley.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "En esta situación, ¿quién tiene prioridad para realizar el sobrepaso al camión?",
+        "answers": [
+            {"text": "El vehículo A.", "correct": false},
+            {"text": "El vehículo A.", "correct": false},
+            {"text": "El vehículo A.", "correct": true}
+        ],
+        "picture": "images/image110.png"
+    },
+    {
+        "question": "Si al llegar a una intersección sin semáforos, se encuentra que el vehículo que está delante suyo está detenido esperando poder doblar hacia la izquierda, ¿qué debe hacer si ud. desea continuar en línea recta?",
+        "answers": [
+            {"text": "Sobrepasarlo por la derecha de manera segura, colocando luz de giro y observando por los espejos retrovisores.", "correct": true},
+            {"text": "Sobrepaso por la izquierda, colocando la luz de giro y observando por los espejos retrovisores.", "correct": false},
+            {"text": "Tocarle bocina para indicarle que debe seguir.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "¿Se puede traspasar la siguiente señal horizontal?",
+        "answers": [
+            {"text": "Sí, porque ordena la circulación de carriles e indica que se puede sobrepasar a otro vehículo.", "correct": true},
+            {"text": "Sólo cuando la vía tiene dos carriles por sentido de circulación.", "correct": false},
+            {"text": "No, porque indica prohibición de sobrepaso.", "correct": false}
+        ],
+        "picture": "images/image111.png"
+    },
+    {
+        "question": "Como norma general, ¿dónde está prohibido el sobrepaso de un vehículo?",
+        "answers": [
+            {"text": "Donde la delimitación de carriles es de trazo continuo.", "correct": false},
+            {"text": "En curvas, encrucijadas, pasos a nivel o puentes.", "correct": false},
+            {"text": "Ambas respuestas, A y B, son correctas.", "correct": true}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "En un túnel, con ambos sentidos de circulación, ¿está permitido sobrepasar a un vehículo?",
+        "answers": [
+            {"text": "Sí, cuando no haya señal que lo prohíba.", "correct": false},
+            {"text": "No, ya que está prohibido por normativa.", "correct": true},
+            {"text": "Sí, si hay suficiente visibilidad.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "En una vía de doble sentido de circulación, ¿qué deberá comprobar antes de iniciar un sobrepaso?",
+        "answers": [
+            {"text": "Que el vehículo que antecede, no tenga las luces intermitentes encendidas y que ningún vehículo circule en sentido contrario, mientras dure la maniobra de sobrepaso.", "correct": false},
+            {"text": "Que ningún otro vehículo esté realizando la maniobra de sobrepaso.", "correct": false},
+            {"text": "Ambas respuestas, A y B, son correctas.", "correct": true}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "En este lugar, ¿está permitido sobrepasar a otro vehículo?",
+        "answers": [
+            {"text": "Sí, salvo que haya una señal que indique lo contrario.", "correct": false},
+            {"text": "No, está prohibido por normativa.", "correct": true},
+            {"text": "Sólo si no se perjudica la circulación de otros vehículos.", "correct": false}
+        ],
+        "picture": "images/image112.png"
+    },
+    {
+        "question": "Frente a la demarcación central de la calzada señalada, ¿cuál es la conducta a seguir?",
+        "answers": [
+            {"text": "Se debe respetar lo que rige con respecto a la línea más próxima; si es continua no traspasarla y si es discontinua está permitido hacerlo.", "correct": true},
+            {"text": "Se debe respetar lo que rige con respecto a la línea más próxima; si es discontinua no traspasarla y si es continua está permitido hacerlo.", "correct": false},
+            {"text": "No debe traspasarse ninguna de ellas.", "correct": false}
+        ],
+        "picture": "images/image113.png"
+    },
+    {
+        "question": "¿Qué indica esta demarcación amarilla en la calzada?",
+        "answers": [
+            {"text": "Indica que se puede traspasar.", "correct": false},
+            {"text": "Divide sentidos opuestos de circulación e indica que está prohibido traspasarla.", "correct": true},
+            {"text": "Que es una zona que se puede circular sobre ella.", "correct": false}
+        ],
+        "picture": "images/image114.png"
+    },
+    {
+        "question": "El carril de sobrepaso en una autopista sirve para...",
+        "answers": [
+            {"text": "Circular por él cuando a la derecha existe otro carril disponible.", "correct": false},
+            {"text": "Circular por él siempre que se conduzca a la mayor velocidad permitida.", "correct": false},
+            {"text": "Realizar maniobras de sobrepaso.", "correct": true}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "¿A qué se denomina carril de aceleración?",
+        "answers": [
+            {"text": "Es el carril de incorporación a una autopista.", "correct": true},
+            {"text": "Es el carril derecho de una autopista.", "correct": false},
+            {"text": "Es el carril izquierdo de una autopista.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "El vehículo señalado con un círculo rojo, ¿circula correctamente?",
+        "answers": [
+            {"text": "Sí, porque en esta vía las luces deben estar encendidas.", "correct": false},
+            {"text": "Sí, ya que mantiene una distancia prudencial respecto del resto de los vehículos.", "correct": false},
+            {"text": "No, dado que está circulando por la banquina.", "correct": true}
+        ],
+        "picture": "images/image115.png"
+    },
+    {
+        "question": "Un vehículo podrá circular por la franja paralela a la calzada, indicada en la imagen, sólo cuando el flujo vehicular esté absolutamente congestionado.",
+        "answers": [
+            {"text": "Verdadero.", "correct": false},
+            {"text": "Falso.", "correct": true}
+        ],
+        "picture": "images/image116.png"
+    },
+    {
+        "question": "El vehículo señalizado tiene permitido girar a la izquierda en este cruce que no tiene semáforo.",
+        "answers": [
+            {"text": "Verdadero.", "correct": false},
+            {"text": "Falso.", "correct": true}
+        ],
+        "picture": "images/image117.png"
+    },
+    {
+        "question": "Ud. viene circulando por una avenida de doble mano y al llegar a la bocacalle, precisa girar a la izquierda para tomar una calle de único sentido. De acuerdo a la Ley Nº 2148, ¿en qué condiciones puede efectuar esa maniobra?",
+        "answers": [
+            {"text": "Si hay un semáforo de giro que me habilite (en verde).", "correct": false},
+            {"text": "Si es un cruce sin semáforos y no se acerca ningún vehículo por la mano de circulación contraria a la de mi avance.", "correct": false},
+            {"text": "Ambas respuestas, A y B, son correctas.", "correct": true}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "En un cruce sin semáforos, un vehículo que se encuentra circulando por una avenida doble mano, tiene permitido girar a su izquierda para tomar una calle de único sentido.",
+        "answers": [
+            {"text": "Verdadero.", "correct": true},
+            {"text": "Falso.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "De acuerdo a la Ley N° 2148, ¿está permitido realizar el siguiente giro?",
+        "answers": [
+            {"text": "No, ya que sólo está permitido hacer ese giro si existe un semáforo que lo habilita.", "correct": false},
+            {"text": "Sí, ya que es una intersección no semaforizada.", "correct": true},
+            {"text": "No, ya que es una vía de doble sentido de circulación.", "correct": false}
+        ],
+        "picture": "images/image118.png"
+    },
+    {
+        "question": "De acuerdo a la Ley N° 2148, ¿está permitido realizar este giro?",
+        "answers": [
+            {"text": "No, porque al ser una intersección semaforizada pero sin giro, no está permitido realizar esa maniobra.", "correct": true},
+            {"text": "Sí, ya que el semáforo está en verde.", "correct": false},
+            {"text": "No, ya que es una vía de doble sentido de circulación.", "correct": false}
+        ],
+        "picture": "images/image119.png"
+    },
+    {
+        "question": "El vehículo con un círculo de color rojo quería girar a la derecha y, por error continuó en línea recta, de modo que:",
+        "answers": [
+            {"text": "Puede circular marcha atrás, porque es un tramo corto el que tiene que recorrer, y efectuar el giro.", "correct": false},
+            {"text": "Puede dar la vuelta en U para tomar el sentido contrario y así efectuar el giro programado.", "correct": false},
+            {"text": "Ambas respuestas, A y B, son incorrectas.", "correct": true}
+        ],
+        "picture": "images/image120.png"
+    },
+    {
+        "question": "Según las normas generales, ¿cuál es la velocidad máxima permitida en esta calle?",
+        "answers": [
+            {"text": "60 km/h.", "correct": false},
+            {"text": "40 km/h.", "correct": true},
+            {"text": "70 km/h.", "correct": false}
+        ],
+        "picture": "images/image121.png"
+    },
+    {
+        "question": "Según las normas generales, ¿cuál es la velocidad mínima permitida en esta calle?",
+        "answers": [
+            {"text": "30 km/h.", "correct": false},
+            {"text": "40 km/h.", "correct": false},
+            {"text": "20 km/h.", "correct": true}
+        ],
+        "picture": "images/image121.png"
+    },
+    {
+        "question": "Según las normas generales, ¿cuál es la velocidad máxima permitida para un automóvil particular en esta avenida?",
+        "answers": [
+            {"text": "40 km/h.", "correct": false},
+            {"text": "70 km/h.", "correct": false},
+            {"text": "60 km/h.", "correct": true}
+        ],
+        "picture": "images/image122.png"
+    },
+    {
+        "question": "¿Cuál es la velocidad máxima permitida para un automóvil particular en este tramo de la avenida?",
+        "answers": [
+            {"text": "60 km/h.", "correct": false},
+            {"text": "50 km/h.", "correct": false},
+            {"text": "40 km/h.", "correct": true}
+        ],
+        "picture": "images/image123.png"
+    },
+    {
+        "question": "¿Cuál es la velocidad máxima permitida para automóviles particulares en este tramo de la Av. Costanera Rafael Obligado?",
+        "answers": [
+            {"text": "60 km/h.", "correct": true},
+            {"text": "70 km/h.", "correct": false},
+            {"text": "40 km/h.", "correct": false}
+        ],
+        "picture": "images/image124.png"
+    },
+    {
+        "question": "Según la Ley 2148, los límites de velocidad para un automóvil particular que circula por esta arteria son de 30 km/h (mínima) y 60 km/h (máxima).",
+        "answers": [
+            {"text": "Verdadero.", "correct": true},
+            {"text": "Falso.", "correct": false}
+        ],
+        "picture": "images/image125.png"
+    },
+    {
+        "question": "Según las normas generales, ¿cuál es la velocidad máxima permitida para automóviles particulares en esta zona de la ruta?",
+        "answers": [
+            {"text": "110 km/h.", "correct": true},
+            {"text": "130 km/h.", "correct": false},
+            {"text": "80 km/h.", "correct": false}
+        ],
+        "picture": "images/image126.png"
+    },
+    {
+        "question": "Según las normas generales, ¿cuál es la velocidad máxima que puede alcanzar un vehículo, al circular por ruta cuando atraviesa una zona urbana?",
+        "answers": [
+            {"text": "60 km/h.", "correct": true},
+            {"text": "80 km/h.", "correct": false},
+            {"text": "90 km/h.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "Al circular por una ruta a la velocidad máxima permitida sólo se está habilitado a superarla en el momento del sobrepaso.",
+        "answers": [
+            {"text": "Verdadero.", "correct": true},
+            {"text": "Falso.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "¿Cuál es la velocidad máxima permitida en este tramo de calle?",
+        "answers": [
+            {"text": "40 km/h.", "correct": false},
+            {"text": "20 km/h.", "correct": true},
+            {"text": "30 km/h.", "correct": false}
+        ],
+        "picture": "images/image127.png"
+    },
+    {
+        "question": "¿Cuál es la velocidad máxima permitida en este tramo de calle?",
+        "answers": [
+            {"text": "20 km/h.", "correct": true},
+            {"text": "40 km/h.", "correct": false},
+            {"text": "30 km/h.", "correct": false}
+        ],
+        "picture": "images/image128.png"
+    },
+    {
+        "question": "¿El límite de velocidad máxima de 20 km/h en este tramo de calle se debe respetar sólo en el horario de funcionamiento escolar?",
+        "answers": [
+            {"text": "No, ya que el límite de la señal de tránsito rige independientemente del día y horario.", "correct": true},
+            {"text": "Sí, ya que la Ley 2148 establece que esta restricción es durante el horario de funcionamiento escolar.", "correct": false}
+        ],
+        "picture": "images/image129.png"
+    },
+    {
+        "question": "Al pretender abandonar una autopista o semiautopista, ¿cuándo se debe reducir la velocidad?",
+        "answers": [
+            {"text": "Poco antes de abandonar la misma.", "correct": false},
+            {"text": "Cuando se haya entrado en el carril de desaceleración.", "correct": true},
+            {"text": "Cuando se ingresa a la nueva vía de circulación.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "Según Ley N° 2148, ¿cuál es la velocidad máxima permitida para automóviles particulares en los carriles centrales de la Av. Gral. Paz, en el tramo entre Autopista Ingeniero Pascual Palazzo y Av. 27 de Febrero?",
+        "answers": [
+            {"text": "60 km/h.", "correct": false},
+            {"text": "80 km/h.", "correct": true},
+            {"text": "100 km/h.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "¿Cuál es la velocidad máxima permitida para un automóvil particular en Av. Intendente Cantilo, salvo señalización que indique otra velocidad?",
+        "answers": [
+            {"text": "60 km/h.", "correct": false},
+            {"text": "110 km/h.", "correct": false},
+            {"text": "100 km/h.", "correct": true}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "Según la Ley Nacional N° 24.449, ¿cuál es la velocidad máxima permitida para automóviles particulares en semiautopistas?",
+        "answers": [
+            {"text": "130 km/h.", "correct": false},
+            {"text": "120 km/h.", "correct": true},
+            {"text": "110 km/h.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "Según la Ley Nacional N º 24.449, en carácter general, ¿cuál es la velocidad mínima permitida en las semiautopistas?",
+        "answers": [
+            {"text": "40 km/h.", "correct": true},
+            {"text": "50 km/h.", "correct": false},
+            {"text": "60 km/h.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "¿Qué se conoce como velocidad precautoria?",
+        "answers": [
+            {"text": "A la velocidad adecuada a las circunstancias (dentro de los límites establecidos) que permite mantener el total dominio del vehículo sin generar riesgo.", "correct": true},
+            {"text": "La circulación a la velocidad mínima establecida para una vía.", "correct": false},
+            {"text": "La circulación a no más de 30 km/h en calles y de 45 km/h en avenidas.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "En este cruce de dos calles sin semáforos, ¿cuál es el límite superior de la velocidad precautoria establecida por ley?",
+        "answers": [
+            {"text": "20 kilómetros por hora.", "correct": false},
+            {"text": "40 kilómetros por hora.", "correct": false},
+            {"text": "30 kilómetros por hora.", "correct": true}
+        ],
+        "picture": "images/image130.png"
+    },
+    {
+        "question": "Según la Ley N° 2148, ¿cuál es la velocidad precautoria frente a establecimientos escolares durante los horarios de ingreso y egreso?",
+        "answers": [
+            {"text": "Es de 20 km/h para todas las arterias.", "correct": false},
+            {"text": "No más de 30 km/h en calles y de 45 km/h en avenidas.", "correct": false},
+            {"text": "Es igual a la mínima establecida para el tipo de arteria correspondiente.", "correct": true}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "Según la Ley N° 2148, ¿cuál es el límite superior de la velocidad precautoria en un paso nivel?",
+        "answers": [
+            {"text": "20 kilómetros por hora.", "correct": true},
+            {"text": "40 kilómetros por hora.", "correct": false},
+            {"text": "30 kilómetros por hora.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "Los vehículos que circulan por la siguiente avenida, al llegar a esta bocacalle sin semáforos, ¿cuál es el límite superior de velocidad precautoria que deben respetar?",
+        "answers": [
+            {"text": "20 kilómetros por hora.", "correct": false},
+            {"text": "40 kilómetros por hora.", "correct": true},
+            {"text": "30 kilómetros por hora.", "correct": false}
+        ],
+        "picture": "images/image131.png"
+    },
+    {
+        "question": "¿A qué se denomina “distancia de seguridad”?",
+        "answers": [
+            {"text": "A la distancia mínima que se debe mantener con el vehículo que circula adelante para tener un mayor margen de reacción y en caso de frenada repentina no se colisione con él.", "correct": true},
+            {"text": "A la distancia que se debe mantener con el vehículo que circula en el carril paralelo, para realizar un sobrepaso seguro.", "correct": false},
+            {"text": "A la distancia que recorre el vehículo desde que el conductor percibe una situación de peligro hasta que acciona el freno.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "¿Cuál es la “distancia mínima de seguridad” a la que debe circular el vehículo A con respecto al B?",
+        "answers": [
+            {"text": "A una diferencia de dos segundos.", "correct": true},
+            {"text": "A una distancia de 2 metros.", "correct": false},
+            {"text": "No existe una determinada. Sólo está prohibido circular inmediatamente detrás, sin dejar distancia.", "correct": false}
+        ],
+        "picture": "images/image132.png"
+    },
+    {
+        "question": "¿A qué se denomina “tiempo de reacción”?",
+        "answers": [
+            {"text": "Al tiempo que pasa desde que se empieza una maniobra hasta que se termina.", "correct": false},
+            {"text": "Al tiempo que pasa desde que se enciende el vehículo hasta que se empieza a circular.", "correct": false},
+            {"text": "Al tiempo que pasa desde que se advierte una situación de riesgo hasta que se toma una decisión.", "correct": true}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "¿A qué se denomina distancia de reacción?",
+        "answers": [
+            {"text": "A la distancia que recorre un vehículo hasta su detención.", "correct": false},
+            {"text": "A la distancia que debe guardar un vehículo, respecto de otro, para poder maniobrar.", "correct": false},
+            {"text": "A la distancia que recorre un vehículo desde que el conductor percibe un peligro hasta que toma una decisión.", "correct": true}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "Circular por debajo del límite mínimo de velocidad puede causar incidentes.",
+        "answers": [
+            {"text": "Verdadero.", "correct": true},
+            {"text": "Falso.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "¿Qué relación existe entre la velocidad y el campo visual del conductor?",
+        "answers": [
+            {"text": "A mayor velocidad, menor campo visual.", "correct": true},
+            {"text": "A menor velocidad, menor campo visual.", "correct": false},
+            {"text": "A mayor velocidad, mayor campo visual.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "Los excesos de velocidad...",
+        "answers": [
+            {"text": "En la actualidad apenas tienen incidencia en los incidentes, debido a la seguridad de los vehículos.", "correct": false},
+            {"text": "Son responsables de la mayoría de los incidentes solamente en vías de doble sentido.", "correct": false},
+            {"text": "Son responsables de la mayoría de los incidentes fatales cualquiera sea la vía de circulación.", "correct": true}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "Circular a velocidad constante y dentro de los límites establecidos por la Ley, además de minimizar las posibilidades de provocar un siniestro vial, puede optimizar el consumo de combustible en un vehículo.",
+        "answers": [
+            {"text": "Verdadero.", "correct": true},
+            {"text": "Falso.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "Circular a mayor velocidad de la precautoria implica que aumenten las posibilidades de que un siniestro vial sea más grave.",
+        "answers": [
+            {"text": "Verdadero.", "correct": true},
+            {"text": "Falso.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "¿Cuál es la manera más adecuada de conducir un vehículo en este tramo de la ruta?",
+        "answers": [
+            {"text": "Aumentar la velocidad gradualmente antes de ingresar en la curva.", "correct": false},
+            {"text": "Desacelerar antes de ingresar a la curva.", "correct": true},
+            {"text": "Mantener la misma velocidad antes de la curva y acelerar mientras se circula en ella.", "correct": false}
+        ],
+        "picture": "images/image133.png"
+    },
+    {
+        "question": "Si al circular por ruta, el vehículo sale involuntariamente de la calzada, es recomendable:",
+        "answers": [
+            {"text": "Usar el freno de mano.", "correct": false},
+            {"text": "Desacelerar (no frenar).", "correct": true},
+            {"text": "Accionar fuertemente el pedal de freno.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "Si ve esta señal mientras conduce, usted debe…",
+        "answers": [
+            {"text": "Reducir la velocidad del vehículo.", "correct": true},
+            {"text": "Incrementar la velocidad del vehículo.", "correct": false},
+            {"text": "Dar vuelta a la izquierda y después a la derecha.", "correct": false}
+        ],
+        "picture": "images/image134.png"
+    },
+    {
+        "question": "Si al circular en ruta se encuentra con esta señal, ¿qué conducta debe seguir?",
+        "answers": [
+            {"text": "Se debe disminuir la velocidad y prestar atención a la posible aproximación de trenes.", "correct": true},
+            {"text": "Se continúa con la misma velocidad, salvo que se haga efectiva la aproximación del tren.", "correct": false},
+            {"text": "Se indica al resto de los conductores, la precaución sobre la aproximación de trenes, colocando balizas.", "correct": false}
+        ],
+        "picture": "images/image135.png"
+    },
+    {
+        "question": "¿El vehículo de la imagen se encuentra en infracción?",
+        "answers": [
+            {"text": "Sí, salvo que el propietario del vehículo sea el mismo que el de la vivienda.", "correct": false},
+            {"text": "No, ya que hay espacio suficiente para el paso del peatón.", "correct": false},
+            {"text": "Ambas respuestas, A y B, son incorrectas.", "correct": true}
+        ],
+        "picture": "images/image136.png"
+    },
+    {
+        "question": "¿Es correcto estacionar el vehículo de esta manera?",
+        "answers": [
+            {"text": "No, excepto que se encuentre junto al cordón del garaje del propietario del vehículo.", "correct": false},
+            {"text": "Sí, siempre que se estacione paralelo al cordón los días no hábiles.", "correct": false},
+            {"text": "No. Está prohibido ya que pone en riesgo a los ciclistas.", "correct": true}
+        ],
+        "picture": "images/image137.png"
+    },
+    {
+        "question": "El vehículo con la oblea universal de discapacidad que se muestra en esta imagen, ¿se encuentra en infracción?",
+        "answers": [
+            {"text": "No, ya que al portar la oblea universal de discapacidad tiene libre estacionamiento y por ello puede estacionar en este lugar.", "correct": false},
+            {"text": "Sí. Todo vehículo tiene prohibido estacionar en este sector ya que pone en riesgo a pasajeros y peatones.", "correct": true}
+        ],
+        "picture": "images/image138.png"
+    },
+    {
+        "question": "Un vehículo con emblema internacional para personas con discapacidad puede ser remitido en algunos casos.",
+        "answers": [
+            {"text": "Verdadero.", "correct": true},
+            {"text": "Falso.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "¿Es correcta la detención del vehículo en este sector?",
+        "answers": [
+            {"text": "Sí, ya que se encuentra con balizas encendidas.", "correct": false},
+            {"text": "Sí, porque sólo está prohibido el estacionamiento.", "correct": false},
+            {"text": "No, ya que tanto la detención como el estacionamiento en este sector se encuentra prohibido.", "correct": true}
+        ],
+        "picture": "images/image139.png"
+    },
+    {
+        "question": "¿Qué línea debe tomarse de referencia cuando se detiene o estaciona en proximidad de una esquina?",
+        "answers": [
+            {"text": "La línea peatonal.", "correct": false},
+            {"text": "La línea imaginaria de prolongación de ochava.", "correct": true},
+            {"text": "La línea de edificación transversal.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "Como norma general, ¿qué distancia debe dejarse libre cuando se va a estacionar frente a este tipo de instituciones?",
+        "answers": [
+            {"text": "Todo el frente del edificio.", "correct": false},
+            {"text": "10 metros de cada lado de la entrada.", "correct": true},
+            {"text": "5 metros de cada lado de la entrada.", "correct": false}
+        ],
+        "picture": "images/image140.png"
+    },
+    {
+        "question": "Para poder estacionar en esta zona, se deben dejar libre al menos de 5 metros para cada lado de la entrada.",
+        "answers": [
+            {"text": "Verdadero.", "correct": false},
+            {"text": "Falso.", "correct": true}
+        ],
+        "picture": "images/image141.png"
+    },
+    {
+        "question": "Como norma general, frente a esta señal, ¿está permitido detenerse para el ascenso o descenso de pasajeros?",
+        "answers": [
+            {"text": "No. Está prohibido estacionar y detenerse.", "correct": false},
+            {"text": "Sí. Sólo está prohibido estacionar pero no detenerse.", "correct": true},
+            {"text": "Según la hora en que quiera realizarse la detención.", "correct": false}
+        ],
+        "picture": "images/image142.png"
+    },
+    {
+        "question": "En estas zonas, está permitido estacionar a partir de los 20 metros para cada lado.",
+        "answers": [
+            {"text": "Verdadero.", "correct": false},
+            {"text": "Falso.", "correct": true}
+        ],
+        "picture": "images/image143.png"
+    },
+    {
+        "question": "La Ley Nº 2148 establece como norma general que en avenidas de este tipo, está prohibido estacionar vehículos…",
+        "answers": [
+            {"text": "Junto a ambas aceras los días hábiles entre las 7 y las 21 horas.", "correct": true},
+            {"text": "Junto a la acera derecha los días hábiles entre las 7 y las 21 horas.", "correct": false},
+            {"text": "Junto a la acera izquierda los días hábiles entre las 7 y las 21 horas.", "correct": false}
+        ],
+        "picture": "images/image144.png"
+    },
+    {
+        "question": "La Ley Nº 2148 establece como norma general que en avenidas de este tipo, está prohibido estacionar vehículos…",
+        "answers": [
+            {"text": "Junto a la acera izquierda los días hábiles durante las 24 horas.", "correct": false},
+            {"text": "Junto a la acera izquierda los días hábiles entre las 7 y las 21 horas.", "correct": true},
+            {"text": "Junto a la acera derecha los días hábiles entre las 7 y las 21 horas.", "correct": false}
+        ],
+        "picture": "images/image145.png"
+    },
+    {
+        "question": "La Ley Nº 2148 establece como norma general que en este tipo de calles está prohibido estacionar vehículos...",
+        "answers": [
+            {"text": "Junto a la acera derecha los días hábiles durante las 24 horas.", "correct": false},
+            {"text": "Junto a la acera izquierda los días hábiles entre las 7 y las 21 horas.", "correct": false},
+            {"text": "Junto a la acera izquierda todos los días durante las 24 horas.", "correct": true}
+        ],
+        "picture": "images/image146.png"
+    },
+    {
+        "question": "En el siguiente espacio, se encuentra permitido detenerse pero no estacionar.",
+        "answers": [
+            {"text": "Verdadero.", "correct": false},
+            {"text": "Falso.", "correct": true}
+        ],
+        "picture": "images/image147.png"
+    },
+    {
+        "question": "En la presente situación, el vehículo señalado no se encuentra en infracción si...",
+        "answers": [
+            {"text": "Permanece de ese modo, de 2 a 5 minutos.", "correct": false},
+            {"text": "Permanece de ese modo alrededor de 2 minutos, no abandona el vehículo y además, indica su detención con las balizas.", "correct": false},
+            {"text": "Es una detención previa a la maniobra de estacionamiento.", "correct": true}
+        ],
+        "picture": "images/image148.png"
+    },
+    {
+        "question": "Encender las balizas permite detenerse en doble fila por un lapso de tiempo, entre 2 y 5 minutos.",
+        "answers": [
+            {"text": "Verdadero.", "correct": false},
+            {"text": "Falso.", "correct": true}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "La Ley N° 2148 establece como norma general la prohibición de detenerse de la siguiente forma, excepto:",
+        "answers": [
+            {"text": "Que se trate de una detención para el ascenso o descenso de pasajeros.", "correct": false},
+            {"text": "Que se trate de una detención previa a la maniobra de estacionamiento.", "correct": true},
+            {"text": "Ambas respuestas, la A y la B, son correctas.", "correct": false}
+        ],
+        "picture": "images/image149.png"
+    },
+    {
+        "question": "¿Está permitida la acción que se presenta en la siguiente imagen?",
+        "answers": [
+            {"text": "Sí, porque tiene las balizas encendidas y no necesita permanecer más de 5 minutos para que descienda un pasajero.", "correct": false},
+            {"text": "Sí, porque la doble fila está permitida cuando se trata de ascenso y descenso de pasajeros.", "correct": false},
+            {"text": "No, ya que la doble fila está permitida sólo como detención previa a la maniobra de estacionamiento.", "correct": true}
+        ],
+        "picture": "images/image150.png"
+    },
+    {
+        "question": "Si va a detenerse o estacionar en las cercanías de esta esquina, ¿dónde sería correcto hacerlo?",
+        "answers": [
+            {"text": "Detrás de la prolongación de la línea imaginaria de la ochava, de modo que la esquina quede libre, sin obstaculizar la visibilidad de los conductores.", "correct": true},
+            {"text": "Es indistinto siempre que quede la senda peatonal libre, para no obstaculizar el cruce del peatón.", "correct": false},
+            {"text": "Dentro de la intersección.", "correct": false}
+        ],
+        "picture": "images/image151.png"
+    },
+    {
+        "question": "Según la Ley Nº 24.449, en el caso de detener un vehículo en esta zona, ¿cuál es la distancia mínima que se debe mantener?",
+        "answers": [
+            {"text": "5 metros respecto de los rieles.", "correct": true},
+            {"text": "2 metros respecto de los rieles.", "correct": false},
+            {"text": "No existe una distancia mínima.", "correct": false}
+        ],
+        "picture": "images/image152.png"
+    },
+    {
+        "question": "¿Este vehículo se encuentra bien estacionado?",
+        "answers": [
+            {"text": "Sí. Al no estar el cordón pintado de amarillo, está habilitado a estacionarse y detenerse.", "correct": false},
+            {"text": "Sí. Al no estar el cordón pintado de rojo, está habilitado a estacionarse pero no a detenerse.", "correct": false},
+            {"text": "No, porque debería estar más alejado del cordón (a 20 cm de él).", "correct": true}
+        ],
+        "picture": "images/image153.png"
+    },
+    {
+        "question": "¿Qué precauciones se deben tener al dejar estacionado un vehículo en esta situación?",
+        "answers": [
+            {"text": "Orientar las ruedas hacia el cordón de la vereda y dejar la marcha hacia atrás o en posición de estacionamiento en el caso de tener caja automática.", "correct": false},
+            {"text": "Orientar las ruedas hacia el centro de la calzada y dejar la marcha en primera o en posición de estacionamiento en el caso de tener caja automática.", "correct": true},
+            {"text": "Orientar las ruedas paralelas al cordón y sin cambio o en posición de estacionamiento en el caso de tener caja automática.", "correct": false}
+        ],
+        "picture": "images/image154.png"
+    },
+    {
+        "question": "¿Qué precauciones se deben tener al dejar estacionado un vehículo en esta situación?",
+        "answers": [
+            {"text": "Orientar las ruedas hacia el cordón de la vereda y dejar la marcha hacia atrás o en posición de estacionamiento en el caso de tener caja automática.", "correct": true},
+            {"text": "Orientar las ruedas hacia el centro de la calzada y dejar la marcha en primera o en posición de estacionamiento en el caso de tener caja automática.", "correct": false},
+            {"text": "Orientar las ruedas paralelas al cordón y sin cambio o en posición de estacionamiento en el caso de tener caja automática.", "correct": false}
+        ],
+        "picture": "images/image155.png"
+    },
+    {
+        "question": "¿Se está habilitado a detener un vehículo en este lugar?",
+        "answers": [
+            {"text": "Sí, siempre y cuando no entorpezca la circulación.", "correct": false},
+            {"text": "No, está prohibido estacionar y detenerse por normativa.", "correct": true},
+            {"text": "Si, a menos que haya una señal que lo prohíba expresamente.", "correct": false}
+        ],
+        "picture": "images/image156.png"
+    },
+    {
+        "question": "¿Está permitido circular marcha atrás en la Ciudad de Buenos Aires?",
+        "answers": [
+            {"text": "No, salvo que se realice para estacionar, entrar o salir de un garaje (cuando no exista otra posibilidad) o salvar algún obstáculo.", "correct": true},
+            {"text": "Sí, se puede realizar en cualquier ocasión pero el trayecto para circular debe ser de pocos metros.", "correct": false},
+            {"text": "Sí, siempre que se realice antes de llegar a la mitad de la cuadra y asegurándose de no poner en riesgo al resto de los vehículos.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "Cuando un conductor realiza marcha atrás, ¿qué distancia puede recorrer?",
+        "answers": [
+            {"text": "No debe superar la mitad de una cuadra.", "correct": false},
+            {"text": "No más de 20 metros.", "correct": false},
+            {"text": "El recorrido mínimo e indispensable, siempre que se trate de una maniobra de estacionamiento.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "Si el vehículo que lo precede, circula con estas luces intermitentes encendidas, ¿qué podría estar indicando el conductor?",
+        "answers": [
+            {"text": "Que el vehículo circula lentamente.", "correct": false},
+            {"text": "Que el vehículo próximamente ingresará a un garage o se detendrá.", "correct": true},
+            {"text": "Que el vehículo realizará un giro en la próxima intersección.", "correct": false}
+        ],
+        "picture": "images/image157.png"
+    },
+    {
+        "question": "¿Qué indica el uso de este tipo de luces?",
+        "answers": [
+            {"text": "Cuando se utilizan por separado sirven para preanunciar maniobras.", "correct": false},
+            {"text": "Cuando se utilizan a la vez sirven para anunciar situaciones de emergencias o que se está por detener.", "correct": false},
+            {"text": "Ambas respuestas, la A y la B, son correctas.", "correct": true}
+        ],
+        "picture": "images/image158.png"
+    },
+    {
+        "question": "Si el vehículo de la imagen se dispone a ingresar a un garaje, está anticipando su maniobra, utilizando las luces correctas.",
+        "answers": [
+            {"text": "Verdadero.", "correct": true},
+            {"text": "Falso.", "correct": false}
+        ],
+        "picture": "images/image159.png"
+    },
+    {
+        "question": "Si el vehículo de la imagen se dispone a ingresar a un garaje ubicado a su derecha, está anticipando su maniobra utilizando las luces correctas.",
+        "answers": [
+            {"text": "Verdadero.", "correct": false},
+            {"text": "Falso.", "correct": true}
+        ],
+        "picture": "images/image160.png"
+    },
+    {
+        "question": "El ingreso hacia un garaje o estacionamiento, ¿cómo debe ser indicado por el conductor?",
+        "answers": [
+            {"text": "Con la luz de giro hacia el lado donde se irá a ingresar.", "correct": false},
+            {"text": "Con la luz de giro hacia el lado opuesto donde se irá a ingresar.", "correct": false},
+            {"text": "Con las luces intermitentes (balizas).", "correct": true}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "¿Son válidas este tipo de señas?",
+        "answers": [
+            {"text": "Como acompañamiento al uso de balizas y/o en caso de emergencia.", "correct": true},
+            {"text": "Nunca.", "correct": false},
+            {"text": "Sólo cuando se utilicen en calles.", "correct": false}
+        ],
+        "picture": "images/image161.png"
+    },
+    {
+        "question": "Si usted está conduciendo y va a girar al llegar a una intersección, debe anticipar su maniobra utilizando la luz de giro correspondiente por lo menos...",
+        "answers": [
+            {"text": "20 metros antes de realizar la maniobra.", "correct": false},
+            {"text": "10 metros antes de realizar la maniobra.", "correct": false},
+            {"text": "30 metros antes de realizar la maniobra.", "correct": true}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "Para realizar correctamente un giro en una intersección se debe indicar...",
+        "answers": [
+            {"text": "Tocando bocina.", "correct": false},
+            {"text": "Utilizando la luz de giro del lado correspondiente, al menos 30 metros antes.", "correct": true},
+            {"text": "Utilizando ambos giros, metros antes de llegar a la intersección.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "Circular con la luz alta encendida está prohibido en zonas urbanas.",
+        "answers": [
+            {"text": "Verdadero.", "correct": true},
+            {"text": "Falso.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "El vehículo, señalado con un círculo rojo, circula utilizando las luces correctas.",
+        "answers": [
+            {"text": "Verdadero.", "correct": false},
+            {"text": "Falso.", "correct": true}
+        ],
+        "picture": "images/image162.png"
+    },
+    {
+        "question": "Para circular de noche por una calle de la Ciudad de Buenos Aires, ¿qué luces deben utilizarse?",
+        "answers": [
+            {"text": "Las bajas.", "correct": true},
+            {"text": "Las altas.", "correct": false},
+            {"text": "Las de posición solamente.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "Al observar las luces de este vehículo, ¿qué significado tienen en cuanto al sentido de circulación?",
+        "answers": [
+            {"text": "Que está circulando en mí mismo sentido.", "correct": true},
+            {"text": "Que está circulando en el sentido contrario al mío.", "correct": false},
+            {"text": "No indican sentido de circulación sino que está descompuesto.", "correct": false}
+        ],
+        "picture": "images/image163.png"
+    },
+    {
+        "question": "¿Para qué sirven estas luces intermitentes?",
+        "answers": [
+            {"text": "Para advertir a los demás conductores, frente a malas condiciones climáticas, que el vehículo circula a baja velocidad.", "correct": false},
+            {"text": "Para señalizar y advertir a los demás conductores que el vehículo se encuentra detenido o próximo a una maniobra de detención, estacionamiento o emergencia.", "correct": true},
+            {"text": "Ambas respuestas, A y B, son correctas.", "correct": false}
+        ],
+        "picture": "images/image164.png"
+    },
+    {
+        "question": "Es obligatoria la circulación con luces bajas encendidas las 24 horas en...",
+        "answers": [
+            {"text": "Todas las autopistas.", "correct": false},
+            {"text": "Avenida Gral. Paz, Lugones e Intendente Cantilo.", "correct": false},
+            {"text": "Ambas respuestas, la A y B, son correctas.", "correct": true}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "Si al circular por la siguiente arteria, se ve obligado a detener en la banquina, ¿qué luces debe colocar?",
+        "answers": [
+            {"text": "Luces altas y giro.", "correct": false},
+            {"text": "Luces reglamentarias y balizas.", "correct": true},
+            {"text": "Luces antinieblas.", "correct": false}
+        ],
+        "picture": "images/image165.png"
+    },
+    {
+        "question": "Según la Ley Nº 2148, ¿está permitido colocar a un automóvil particular luces adicionales?",
+        "answers": [
+            {"text": "Está permitido el agregado de dos faros rompeniebla y de hasta dos faros elevados con luces de freno.", "correct": true},
+            {"text": "Sí. Se puede agregar las luces que se deseen ya que cuanto más capacidad de iluminación tenga el vehículo, mejor visibilidad tendrá el conductor.", "correct": false},
+            {"text": "No, está prohibido agregar cualquier tipo de luz adicional. Sólo se podrá reponer las que traiga de fábrica, en caso de destrucción.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "¿Qué significado tiene el color de las luces encendidas que se indican en la imagen?",
+        "answers": [
+            {"text": "Al estar ubicada en la parte posterior del vehículo, el color blanco es para diferenciarla de las luces de freno, posición y giro.", "correct": false},
+            {"text": "Al ser de color blanco se obtiene mejor visión cuando la maniobra de retroceso se debe realizar de noche o en condiciones de poca visibilidad.", "correct": false},
+            {"text": "Indica el sentido de circulación. La luz blanca significa que el vehículo circula en sentido contrario al del vehículo rojo que está detrás de él.", "correct": true}
+        ],
+        "picture": "images/image166.png"
+    },
+    {
+        "question": "El sistema de luces que posee un vehículo, además de iluminar, brinda información que permite la comunicación entre vehículos y también peatones.",
+        "answers": [
+            {"text": "Verdadero.", "correct": true},
+            {"text": "Falso.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "¿A qué se denomina “aquaplaning”?",
+        "answers": [
+            {"text": "Cuando la cantidad de agua caída en una lluvia es abundante.", "correct": false},
+            {"text": "A la pérdida de adherencia del neumático al piso a causa de la capa de agua acumulada en el pavimento, que es mayor a la cantidad que se puede expulsar a través de los dibujos de los neumáticos.", "correct": true},
+            {"text": "Al estado resbaladizo en el que se encuentra la calzada luego de una llovizna.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "En cuanto a la velocidad frente a esta situación, ¿qué debería considerar un conductor?",
+        "answers": [
+            {"text": "Debería circular a la mitad de la velocidad máxima establecida por Ley.", "correct": false},
+            {"text": "Debería adecuar la velocidad de acuerdo a las condiciones climáticas y de dicha vía de circulación.", "correct": true},
+            {"text": "Lo único que debería hacer es respetar es la velocidad máxima de la arteria por la que circula.", "correct": false}
+        ],
+        "picture": "images/image167.png"
+    },
+    {
+        "question": "¿Cómo se define el efecto que ocurre en la siguiente imagen?",
+        "answers": [
+            {"text": "Aquaplaning.", "correct": true},
+            {"text": "Off tracking.", "correct": false}
+        ],
+        "picture": "images/image168.png"
+    },
+    {
+        "question": "Cuando hay agua en el camino, debe reducir su velocidad para evitar…",
+        "answers": [
+            {"text": "Desgastar las llantas.", "correct": false},
+            {"text": "Sobrecalentar las llantas.", "correct": false},
+            {"text": "El aquaplaning.", "correct": true}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "Si la calzada está mojada y hay charcos, ¿pueden perder eficacia los frenos?",
+        "answers": [
+            {"text": "No, al contrario, se mejora la adherencia porque los neumáticos se limpian.", "correct": false},
+            {"text": "Sí, porque al mojarse pueden no funcionar eficazmente.", "correct": true},
+            {"text": "No, porque justamente los frenos sirven para contrarrestar los efectos de la calzada resbaladiza.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "Frente a esta condición climática, ¿se deben encender las luces bajas?",
+        "answers": [
+            {"text": "Sí, siempre que está disminuida la visibilidad.", "correct": true},
+            {"text": "No, porque las luces sólo deben utilizarse por la noche.", "correct": false},
+            {"text": "Sí, pero sólo en rutas.", "correct": false}
+        ],
+        "picture": "images/image169.png"
+    },
+    {
+        "question": "Al conducir por un largo lapso de tiempo y en esta condición climática…",
+        "answers": [
+            {"text": "Es menos probable que aparezca la fatiga, ya que aumenta la atención.", "correct": false},
+            {"text": "Es necesario descansar con más frecuencia, para evitar la fatiga.", "correct": true},
+            {"text": "No influye en la aparición de fatiga, siempre y cuando se mantenga una velocidad prudente.", "correct": false}
+        ],
+        "picture": "images/image169.png"
+    },
+    {
+        "question": "Bajo esta condición climática, ¿es recomendable aumentar la distancia de seguridad y reducir la velocidad?",
+        "answers": [
+            {"text": "No, al reducir la velocidad, mayor es la proporción de agua en el asfalto.", "correct": false},
+            {"text": "Sí, con lluvia la adherencia es menor.", "correct": true},
+            {"text": "No. La distancia de seguridad debe ser siempre la misma.", "correct": false}
+        ],
+        "picture": "images/image169.png"
+    },
+    {
+        "question": "Conducir de noche aumenta el riesgo de sufrir un incidente.",
+        "answers": [
+            {"text": "Verdadero.", "correct": true},
+            {"text": "Falso.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "Cuando conduce bajo esta condición climática, ¿a cuánto se debe incrementar la regla de 2 segundos en la distancia de seguridad?",
+        "answers": [
+            {"text": "A 4 segundos.", "correct": true},
+            {"text": "A 3 segundos.", "correct": false},
+            {"text": "A 5 segundos.", "correct": false}
+        ],
+        "picture": "images/image170.png"
+    },
+    {
+        "question": "Al conducir sobre una calzada en estas condiciones, la distancia de frenado será...",
+        "answers": [
+            {"text": "Igual que cuando la calzada se encuentra seca.", "correct": false},
+            {"text": "Menor que cuando la calzada se encuentra seca.", "correct": false},
+            {"text": "Mayor que cuando la calzada se encuentra seca.", "correct": true}
+        ],
+        "picture": "images/image171.png"
+    },
+    {
+        "question": "En estas condiciones, ¿una incorrecta regulación de la altura de las luces bajas puede producir encandilamiento?",
+        "answers": [
+            {"text": "Sí, porque este efecto se produce por cambios bruscos en la intensidad de la luz.", "correct": true},
+            {"text": "No, porque este efecto se produce sólo por el uso de la luz alta.", "correct": false},
+            {"text": "No, porque este efecto se produce en rutas con poca iluminación.", "correct": false}
+        ],
+        "picture": "images/image172.png"
+    },
+    {
+        "question": "¿Cuál es el límite de velocidad máxima en esta situación?",
+        "answers": [
+            {"text": "60 km/h.", "correct": true},
+            {"text": "80 km/h.", "correct": false},
+            {"text": "40 km/h.", "correct": false}
+        ],
+        "picture": "images/image173.png"
+    },
+    {
+        "question": "Ante la siguiente situación, ¿qué es lo que se recomienda hacer?",
+        "answers": [
+            {"text": "Utilizar las luces rompeniebla, lo cual es suficiente porque permite ampliar la visibilidad del conductor.", "correct": false},
+            {"text": "Conducir con ambas manos en el volante, reducir la velocidad, aumentar la distancia entre vehículos y utilizar las luces correspondientes del vehículo.", "correct": true},
+            {"text": "Detenerse en la banquina hasta que levante el banco de niebla.", "correct": false}
+        ],
+        "picture": "images/image174.png"
+    },
+    {
+        "question": "Con estas condiciones climáticas, ¿qué luces debe utilizar para poder circular en esta ruta?",
+        "answers": [
+            {"text": "Las luces altas, durante todo el recorrido mientras continúe la niebla.", "correct": false},
+            {"text": "Las luces bajas y las rompeniebla (en el caso de tenerlas).", "correct": true},
+            {"text": "Las luces bajas, las rompenieblas (en caso de tenerlas) y las balizas.", "correct": false}
+        ],
+        "picture": "images/image175.png"
+    },
+    {
+        "question": "¿En qué caso deberán utilizarse estas luces?",
+        "answers": [
+            {"text": "Únicamente de noche y por una vía sin asfaltar.", "correct": false},
+            {"text": "Sólo por vías sin banquina.", "correct": false},
+            {"text": "En vías afectadas por niebla, en cualquier horario.", "correct": true}
+        ],
+        "picture": "images/image176.png"
+    },
+    {
+        "question": "Si se encuentra en esta vía bajo estas condiciones climáticas, ¿lo más conveniente es detenerse en la banquina?",
+        "answers": [
+            {"text": "Sí, cuando el banco de niebla es muy denso.", "correct": false},
+            {"text": "Sí, siempre y cuando se coloquen las luces altas para ser más visibles.", "correct": false},
+            {"text": "No. Si no hay posibilidad de circular, debe alejarse lo más posible de la calzada y de la banquina.", "correct": true}
+        ],
+        "picture": "images/image177.png"
+    },
+    {
+        "question": "La niebla, como factor de riesgo, produce modificaciones en…",
+        "answers": [
+            {"text": "El campo visual del conductor, su percepción del entorno, la capacidad lumínica del vehículo y la adherencia de las cubiertas.", "correct": true},
+            {"text": "El campo visual del conductor y la capacidad lumínica del vehículo.", "correct": false},
+            {"text": "Sólo afecta la capacidad lumínica del vehículo.", "correct": true}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "Se deben utilizar balizas mientras se conduce bajo estas condiciones climáticas.",
+        "answers": [
+            {"text": "Verdadero.", "correct": false},
+            {"text": "Falso.", "correct": true}
+        ],
+        "picture": "images/image178.png"
+    },
+    {
+        "question": "En condiciones de viento fuerte, es recomendable realizar los sobrepasos de un camión con una diferencia de velocidad no demasiado elevada.",
+        "answers": [
+            {"text": "Verdadero.", "correct": true},
+            {"text": "Falso.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "Si ud. circula por la ruta y observa esta situación, debe…",
+        "answers": [
+            {"text": "Aumentar la velocidad para sobrepasar al animal rápidamente.", "correct": false},
+            {"text": "Usar la bocina para ahuyentar al animal y mantener su velocidad.", "correct": false},
+            {"text": "Reducir la velocidad y si es necesario detenerse.", "correct": true}
+        ],
+        "picture": "images/image179.png"
+    },
+    {
+        "question": "¿Es seguro conducir con este tipo de calzado?",
+        "answers": [
+            {"text": "Es indistinto mientras que no resbalen.", "correct": false},
+            {"text": "Sólo puede verse afectada la conducción en viajes largos.", "correct": false},
+            {"text": "No, sólo un calzado sujeto al pie brinda seguridad en la conducción.", "correct": true}
+        ],
+        "picture": "images/image180.png"
+    },
+    {
+        "question": "Según la Ley N° 2148, un vehículo que no está destinado al servicio de emergencia, en caso de extrema necesidad, ¿puede realizar un servicio similar al que efectúan éstos?",
+        "answers": [
+            {"text": "Sí, debiendo advertirlo encendiendo las balizas, empleando la bocina en forma intermitente y agitando un paño.", "correct": true},
+            {"text": "Sí. El conductor de dicho vehículo deberá sacar un brazo por la ventanilla y agitarlo reiteradamente para indicarle al resto de los usuarios de la vía la situación en la que se encuentra.", "correct": false},
+            {"text": "No, los servicios de emergencia sólo pueden ser efectuados por los vehículos habilitados para este fin.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "Si el conductor de un vehículo circula con las balizas encendidas, toca repetidamente la bocina y el acompañante saca el brazo agitando un pañuelo. ¿Qué está indicando?",
+        "answers": [
+            {"text": "Que el vehículo tiene un desperfecto.", "correct": false},
+            {"text": "Que se encuentra en emergencia, transportando a una persona en grave estado de salud.", "correct": true},
+            {"text": "Ambas respuestas, la A y la B, son correctas.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "Si al conducir por una autopista advierte que el vehículo presenta una falla grave, pero a pesar de ella puede seguir circulando; ¿qué se recomienda hacer en estos casos?",
+        "answers": [
+            {"text": "Seguir circulando por la autopista pero por el carril de desaceleración, destinado a los vehículos lentos.", "correct": false},
+            {"text": "Circular por el carril derecho y en la próxima salida abandonar la autopista para llamar al auxilio del vehículo.", "correct": true},
+            {"text": "Continuar a baja velocidad, manteniéndose en el carril, independientemente de cuál fuera.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "¿Qué vehículo puede realizar el acarreo de otro en esta vía?",
+        "answers": [
+            {"text": "Cualquier vehículo que posea potencia suficiente para remolcar a otro vehículo y un elemento para sujetarlo firmemente.", "correct": false},
+            {"text": "Cualquier vehículo utilizando la cuarta de enganche para que quede sujeto firmemente sin riesgo.", "correct": false},
+            {"text": "Sólo los vehículos destinados a ese fin.", "correct": true}
+        ],
+        "picture": "images/image181.png"
+    },
+    {
+        "question": "En este tipo de vía, ¿está permitido remolcar con su automóvil particular a otro que se encuentra descompuesto?",
+        "answers": [
+            {"text": "Sí, ya que es riesgoso que quede detenido pero sólo puede hacerse hasta el lugar más próximo donde pueda quedar inmovilizado.", "correct": false},
+            {"text": "Sí, pero sólo si soy titular de una licencia que autoriza a conducir vehículos con remolque.", "correct": false},
+            {"text": "No, sólo pueden hacerlo los vehículos autorizados a tal fin.", "correct": true}
+        ],
+        "picture": "images/image182.png"
+    },
+    {
+        "question": "¿A qué se denomina conducción preventiva?",
+        "answers": [
+            {"text": "A controlar el buen funcionamiento del vehículo, los niveles de combustible, aceite e inflado de neumáticos.", "correct": false},
+            {"text": "A adoptar conductas cautelosas al conducir, que consideran la responsabilidad por los actos que se llevan a cabo y a anticipar la conducta de los demás.", "correct": true},
+            {"text": "A realizar cursos viales cada seis meses.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "Una conducción preventiva o anticipada prevé que todos podemos cometer errores, a pesar de conocer la normativa y la concientización gubernamental.",
+        "answers": [
+            {"text": "Verdadero.", "correct": true},
+            {"text": "Falso.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "¿A qué se denomina conducción eficiente?",
+        "answers": [
+            {"text": "A una conducción que disminuya los riesgos de seguridad vial y logre un menor consumo de combustible.", "correct": true},
+            {"text": "A una conducción que logre llegar a destino en el menor tiempo posible.", "correct": false},
+            {"text": "A una conducción que mantenga durante todo el trayecto la misma velocidad.", "correct": false}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "De los factores citados, ¿cuál interviene en el exceso de consumo de combustible?",
+        "answers": [
+            {"text": "La resistencia aerodinámica.", "correct": false},
+            {"text": "La velocidad.", "correct": false},
+            {"text": "Ambas respuestas, A y B, son correctas.", "correct": true}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "De acuerdo a la Ley N°2148 durante la siguiente circunstancia, ¿qué acción está prohibida realizar?",
+        "answers": [
+            {"text": "Ubicarse cerca del surtidor.", "correct": false},
+            {"text": "Dejar el motor y las luces encendidas.", "correct": true},
+            {"text": "Sólo dejar el motor encendido.", "correct": false}
+        ],
+        "picture": "images/image183.png"
+    },
+    {
+        "question": "Según la Ley 2148, ¿este vehículo está cargando combustible de manera correcta?",
+        "answers": [
+            {"text": "Sí, ya que no se observa al conductor utilizar el celular que es la única prohibición al respecto.", "correct": false},
+            {"text": "No, ya que por normativa no debe cargarse combustible con luces y motor encendido.", "correct": true},
+            {"text": "La Ley no se expresa sobre esta situación.", "correct": false}
+        ],
+        "picture": "images/image184.png"
+    },
+    {
+        "question": "¿Para qué sirve esta varilla metálica?",
+        "answers": [
+            {"text": "Para comprobar la temperatura del aceite.", "correct": false},
+            {"text": "Para comprobar el nivel del aceite.", "correct": true},
+            {"text": "Para comprobar la presión del aceite y del líquido de frenos.", "correct": false}
+        ],
+        "picture": "images/image185.png"
+    },
+    {
+        "question": "Es importante realizar un correcto mantenimiento vehicular porque...",
+        "answers": [
+            {"text": "Evita desperfectos del motor y ayuda a reducir el consumo de combustible.", "correct": false},
+            {"text": "Ayuda a reducir el factor de riesgo vehicular involucrado en los siniestros viales.", "correct": false},
+            {"text": "Ambas respuestas, A y B, son correctas.", "correct": true}
+        ],
+        "picture": "//"
+    },
+    {
+        "question": "Con respecto al consumo de combustible, ¿qué consecuencias trae circular de la siguiente forma?",
+        "answers": [
+            {"text": "Aumenta el consumo de combustible porque el vehículo se vuelve más ligero.", "correct": false},
+            {"text": "Incrementa la resistencia del viento y con ello, aumenta el consumo de combustible.", "correct": true},
+            {"text": "Es indistinto donde se ubique la carga, no afecta al consumo de combustible.", "correct": false}
+        ],
+        "picture": "images/image186.png"
+    },
+    {
+        "question": "¿Con qué se lubrica un motor?",
+        "answers": [
+            {"text": "Opción A.", "correct": false},
+            {"text": "Opción B.", "correct": false},
+            {"text": "Opción C.", "correct": true}
+        ],
+        "picture": "images/image187.png"
+    }
+]

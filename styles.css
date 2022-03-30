@@ -1,0 +1,107 @@
+*, *::before, *::after{
+    box-sizing: border-box;
+    font-family: kadwa; /* nombre de la fuente a usar */
+}
+
+img{ /*le doy tamaño a la imagen que va con la pregunta*/
+    width: 400px;
+    height: 200px;
+    max-width: 80%;
+    object-fit: contain;
+}
+
+:root { /*pone el color del fondo del documento*/
+    --hue-neutral: 200;
+    --hue-wrong: 0;
+    --hue-correct: 145;
+}
+
+body {
+    background-image: url("http://leocaronline.com/wp/wp-content/uploads/2019/11/Sli-2.jpg");
+    background-repeat: no-repeat; /* hace que no se repita en patron*/
+    background-position: center; /*centra el fondo */
+    backdrop-filter: blur(5px); /*lo pone borroso*/ 
+
+    --hue: var(--hue-neutral);
+    padding: 0;
+    margin: 0;
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-color: hsl(var(--hue), 100%, 20%);
+}
+
+body.correct {
+    --hue: var(--hue-correct);
+}
+
+body.wrong {
+    --hue: var(--hue-wrong);
+}
+
+.container { /*espacio donde estan ubicados los botones */
+    width: 600px;
+    height: auto; /*poniendo auto ajusta el largo al contenido que tiene dentro*/
+    max-width: 80%;
+    background-color: white;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 0 0 10px 2px;
+}
+
+.btn-grid{ /*forma en la que se ubican los botones */
+    display: grid;
+    grid-template-columns: repeat(1, auto);
+    gap: 10px;
+    margin: 20px 0;
+}
+
+.btn { /*setteo el color y formato de la clase botones */
+    --hue: var(--hue-neutral); 
+    border: 1px solid hsl(var(--hue), 100%, 30%);
+    background-color: hsl(var(--hue), 100%, 50%);
+    border-radius: 5px;
+    padding: 5px 10px;
+    color: white; /*color de las letras*/
+    outline: none;
+}
+
+.btn:hover { /*como se comporta el boton cuando el mouse pasa por arriba*/
+    border-color: black;
+}
+
+.btn.correct{ /*como se comporta el boton cuando la respuesta es correcta*/
+    --hue: var(--hue-correct);
+    color: black;
+}
+
+.btn.wrong{ /*como se comporta el botoncuando la respuesta es incorrecta*/
+    --hue: var(--hue-wrong);
+}
+
+.start-btn, .next-btn{
+    font-size: 1.5rem;
+    /* font-weight: bold; */
+    margin: 50px;
+    padding: 10px 20px; /*el espacio de la caja que contiene al boton*/
+}
+
+.controls{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.center{ /*centra la imagen*/
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.hide{ 
+    display: none;
+}
+

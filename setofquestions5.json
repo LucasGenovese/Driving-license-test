@@ -1,0 +1,484 @@
+[ 
+    {
+        "question": "Determine qué indica la señal que a continuación se presenta:",
+        "answers": [
+            {"text": "Senda peatonal.", "correct": false},
+            {"text": "Personas trabajando.", "correct": true},
+            {"text": "Cruce peatonal de máximo peligro.", "correct": false}
+        ],
+        "picture": "signals/signal1.png"
+    },
+    {
+        "question": "¿Qué indica esta señal?",
+        "answers": [
+            {"text": "Prohibido estacionar por la existencia de un aeropuerto cercano.", "correct": false},
+            {"text": "Vuelos a baja altura de aviones sobre la vía, por la proximidad de aeródromo o aeropuerto.", "correct": true},
+            {"text": "Prohibido estacionar y detenerse por la existencia de un aeropuerto cercano.", "correct": false}
+        ],
+        "picture": "signals/signal2.png"
+    },
+    {
+        "question": "Determine qué indica la señal que a continuación se presenta:",
+        "answers": [
+            {"text": "Proximidad de bosques.", "correct": false},
+            {"text": "Zonas de palmeras.", "correct": false},
+            {"text": "Vientos fuertes laterales.", "correct": true}
+        ],
+        "picture": "signals/signal3.png"
+    },
+    {
+        "question": "Determine qué indica la señal que a continuación se presenta:",
+        "answers": [
+            {"text": "Cruce de jinetes", "correct": true},
+            {"text": "Prohibición de circular con animales.", "correct": false},
+            {"text": "Camino peligroso por presencia de animales sueltos.", "correct": false}
+        ],
+        "picture": "signals/signal4.png"
+    },
+    {
+        "question": "Determine qué indica la señal que a continuación se presenta:",
+        "answers": [
+            {"text": "Camino resbaladizo.", "correct": false},
+            {"text": "Camino sinuoso.", "correct": true},
+            {"text": "Camino cuesta arriba.", "correct": false}
+        ],
+        "picture": "signals/signal5.png"
+    },
+    {
+        "question": "Determine qué indica la señal que a continuación se presenta:",
+        "answers": [
+            {"text": "Aproximación a un puente levadizo, rotatorio o flotante.", "correct": true},
+            {"text": "Presencia de un puente de menor ancho que el resto de la vía.", "correct": false},
+            {"text": "Proximidad de un paso a nivel.", "correct": false}
+        ],
+        "picture": "signals/signal6.png"
+    },
+    {
+        "question": "Determine qué indica la señal que a continuación se presenta:",
+        "answers": [
+            {"text": "Inicio de doble mano.", "correct": false},
+            {"text": "Estrechamiento (en una sola mano).", "correct": false},
+            {"text": "Encrucijada (bifurcación).", "correct": true}
+        ],
+        "picture": "signals/signal7.png"
+    },
+    {
+        "question": "Determine qué indica la señal que a continuación se presenta:",
+        "answers": [
+            {"text": "Inicio de doble mano.", "correct": false},
+            {"text": "Encrucijada (bifurcación).", "correct": true},
+            {"text": "Estrechamiento (en una sola mano).", "correct": false}
+        ],
+        "picture": "signals/signal8.png"
+    },
+    {
+        "question": "Determine qué indica la señal que a continuación se presenta:",
+        "answers": [
+            {"text": "Túnel.", "correct": true},
+            {"text": "Puente angosto.", "correct": false},
+            {"text": " Altura mínima.", "correct": false}
+        ],
+        "picture": "signals/signal9.png"
+    },
+    {
+        "question": "Determine qué indica la señal que a continuación se presenta:",
+        "answers": [
+            {"text": "Encrucijada.", "correct": false},
+            {"text": "Cruce de caminos", "correct": false},
+            {"text": "Incorporacion de tránsito lateral.", "correct": true}
+        ],
+        "picture": "signals/signal10.png"
+    },
+    {
+        "question": "Determine qué indica la señal que a continuación se presenta:",
+        "answers": [
+            {"text": "Inicio de doble circulación.", "correct": true},
+            {"text": "Calzada dividida.. ", "correct": false},
+            {"text": "Camino sinuoso..", "correct": false}
+        ],
+        "picture": "signals/signal11.png"
+    },
+    {
+        "question": "Determine qué indica la señal que a continuación se presenta:",
+        "answers": [
+            {"text": "Rotonda.", "correct": true},
+            {"text": "Peligro extremo de rotonda.", "correct": false},
+            {"text": "Preferencia de avance.", "correct": false}
+        ],
+        "picture": "signals/signal12.png"
+    },
+    {
+        "question": "¿Qué indica esta señal preventiva?",
+        "answers": [
+            {"text": "Indica que de la elevación próxima a la ruta, pueden desprenderse rocas o partes que ruedan sobre la calzada.", "correct": true},
+            {"text": "Indica que circulamos por una zona selvática.", "correct": false},
+            {"text": "Indica que por la vía en la que se circula, la calzada presenta irregularidades.", "correct": false}
+        ],
+        "picture": "signals/signal13.png"
+    },
+    {
+        "question": "Determine qué indica la señal que a continuación se presenta:",
+        "answers": [
+            {"text": "Niños jugando.", "correct": false},
+            {"text": "Zona escolar.", "correct": true},
+            {"text": "Calle peatonal.", "correct": false}
+        ],
+        "picture": "signals/signal14.png"
+    },
+    {
+        "question": "Determine qué indica la señal que a continuación se presenta:",
+        "answers": [
+            {"text": "Estrechamiento (en las dos manos).", "correct": false},
+            {"text": "Calzada dividida.", "correct": true},
+            {"text": "Inicio doble mano.", "correct": false}
+        ],
+        "picture": "signals/signal15.png"
+    },
+    {
+        "question": "Determine qué indica la señal que a continuación se presenta:",
+        "answers": [
+            {"text": "Estrechamiento (en una mano).", "correct": false},
+            {"text": "Calzada dividida.", "correct": false},
+            {"text": "Estrechamiento (en las dos manos).", "correct": true}
+        ],
+        "picture": "signals/signal16.png"
+    },
+    {
+        "question": "Determine qué indica la señal vertical que a continuación se presenta:",
+        "answers": [
+            {"text": "Cruce de peatones (Peligro máximo).", "correct": true},
+            {"text": "Peatones a la izquierda.", "correct": false},
+            {"text": "Prohibición de circular. Zona exclusiva peatonal.", "correct": false}
+        ],
+        "picture": "signals/signal17.png"
+    },
+    {
+        "question": "¿Cuál de estas señales indica “Cruce de Peatones (máximo peligro)”?",
+        "answers": [
+            {"text": "La señal A.", "correct": true},
+            {"text": "La señal B.", "correct": false},
+            {"text": "La señal C.", "correct": false}
+        ],
+        "picture": "signals/signal18.png"
+    },
+    {
+        "question": "Determine qué indica la señal que a continuación se presenta:",
+        "answers": [
+            {"text": "Cruce ferroviario.", "correct": true},
+            {"text": "Estación ferroviaria.", "correct": false},
+            {"text": "Circulación exclusiva (ferrocarril).", "correct": false}
+        ],
+        "picture": "signals/signal19.png"
+    },
+    {
+        "question": "Al visualizar esta señal de prevención, usted sabe que:",
+        "answers": [
+            {"text": "Se advierte la aproximación de una curva con pendiente ascendente.", "correct": false},
+            {"text": "Se aproxima una curva cerrada.", "correct": true},
+            {"text": "Se aproxima un camino sinuoso.", "correct": false}
+        ],
+        "picture": "signals/signal20.png"
+    },
+    {
+        "question": "Determine qué indica la señal que a continuación se presenta:",
+        "answers": [
+            {"text": "Cruce Ferroviario (Más de dos vías).", "correct": true},
+            {"text": "Estación Ferroviaria.", "correct": false},
+            {"text": "Atención a Ferrocarril.", "correct": false}
+        ],
+        "picture": "signals/signal21.png"
+    },
+    {
+        "question": "Determine qué indica la señal que a continuación se presenta:",
+        "answers": [
+            {"text": "Paneles de prevención.", "correct": true},
+            {"text": "Prohibición de circular.", "correct": false},
+            {"text": "Reducción de velocidad.", "correct": false}
+        ],
+        "picture": "signals/signal22.png"
+    },
+    {
+        "question": "Determine qué indica la señal que a continuación se presenta:",
+        "answers": [
+            {"text": "Panel de Prevención (Objeto Rígido).", "correct": true},
+            {"text": "Calzada Reducida.", "correct": false},
+            {"text": "Contramano.", "correct": false}
+        ],
+        "picture": "signals/signal23.png"
+    },
+    {
+        "question": "Determine qué indica la señal que a continuación se presenta:",
+        "answers": [
+            {"text": "Cruce Ferroviario (por la derecha).", "correct": false},
+            {"text": "Prohibición de Girar.", "correct": false},
+            {"text": "Panel de Prevención (Curva).", "correct": true}
+        ],
+        "picture": "signals/signal24.png"
+    },
+    {
+        "question": "La señal que se muestra es una señal preventiva, de máximo peligro, que anuncia la existencia de un tramo de vía con fuerte pendiente descendente.",
+        "answers": [
+            {"text": "Verdadero.", "correct": true},
+            {"text": "Falso.", "correct": false}
+        ],
+        "picture": "signals/signal25.png"
+    },
+    {
+        "question": "Frente a esta señal, ¿qué sucede con la prioridad de avance en esa vía?",
+        "answers": [
+            {"text": "Se tiene la prioridad de avance.", "correct": false},
+            {"text": "Se pierde la prioridad de avance.", "correct": true},
+            {"text": "Esta señal no es indicativa de prioridad de avance.", "correct": false}
+        ],
+        "picture": "signals/signal26.png"
+    },
+    {
+        "question": "¿Qué significa esta señal?",
+        "answers": [
+            {"text": "Indica la prohibición de estacionamiento en el frente de entidades bancarias.", "correct": false},
+            {"text": "Indica que la vía ante la cual se encuentra tiene sentido de circulación opuesto, y por lo tanto no se puede ingresar.", "correct": true},
+            {"text": "Indica la prohibición de circulación de vehículos sin permiso de ingreso.", "correct": false}
+        ],
+        "picture": "signals/signal27.png"
+    },
+    {
+        "question": "¿Qué indica esta señal?",
+        "answers": [
+            {"text": "Que existe la opción de doblar hacia la derecha.", "correct": false},
+            {"text": "Que hay un giro obligatorio hacia la derecha.", "correct": true},
+            {"text": "Que se aproxima una curva peligrosa con inclinación hacia la derecha.", "correct": false}
+        ],
+        "picture": "signals/signal28.png"
+    },
+    {
+        "question": "La señal representada precede a una intersección con la OBLIGACIÓN de girar a la derecha.",
+        "answers": [
+            {"text": "Verdadero", "correct": true},
+            {"text": "Falso.", "correct": false}
+        ],
+        "picture": "signals/signal28.png"
+    },
+    {
+        "question": "¿Qué indica esta señal?",
+        "answers": [
+            {"text": "No avanzar.", "correct": false},
+            {"text": "Comienzo de doble mano.", "correct": false},
+            {"text": "Comienzo de sentido único.", "correct": true}
+        ],
+        "picture": "signals/signal29.png"
+    },
+    {
+        "question": "Determine qué indica la señal que a continuación se presenta:",
+        "answers": [
+            {"text": "Sobrepasos por la derecha.", "correct": false},
+            {"text": "Circulación exclusiva (camión).", "correct": false},
+            {"text": "Tránsito pesado a la derecha.", "correct": true}
+        ],
+        "picture": "signals/signal30.png"
+    },
+    {
+        "question": "Esta señal vertical reglamentaria indica…",
+        "answers": [
+            {"text": "Que es un carril preferencial para ciclistas.", "correct": false},
+            {"text": "Que es un carril de uso exclusivo para ciclistas.", "correct": true},
+            {"text": "Que los ciclistas no pueden circular por este carril.", "correct": false}
+        ],
+        "picture": "signals/signal31.png"
+    },
+    {
+        "question": "¿Qué indica esta señal reglamentaria?",
+        "answers": [
+            {"text": "Que sólo está permitido circular en bicicleta a partir de donde se encuentra la señal.", "correct": false},
+            {"text": "Indica al ciclista que es obligatorio descender de la bicicleta a partir de donde se encuentra la señal.", "correct": true},
+            {"text": "Que comienza una ciclovía.", "correct": false}
+        ],
+        "picture": "signals/signal32.png"
+    },
+    {
+        "question": "¿Qué indica esta señal reglamentaria?",
+        "answers": [
+            {"text": "Que el vehículo no puede continuar su marcha sin detenerse.", "correct": true},
+            {"text": "Presencia de reductor de velocidad.", "correct": false},
+            {"text": "Comienzo de sentido opuesto de circulación.", "correct": false}
+        ],
+        "picture": "signals/signal33.png"
+    },
+    {
+        "question": "¿Qué indica esta señal reglamentaria?",
+        "answers": [
+            {"text": "Inicio de calle de convivencia.", "correct": false},
+            {"text": "Los peatones no deben circular por esa zona.", "correct": false},
+            {"text": "Los peatones deben circular obligatoriamente por la derecha.", "correct": true}
+        ],
+        "picture": "signals/signal34.png"
+    },
+    {
+        "question": "¿Qué indica esta señal reglamentaria?",
+        "answers": [
+            {"text": "Indica que el carril sobre el que se encuentra la señal, no puede ser utilizado por motocicletas y ciclomotores.", "correct": true},
+            {"text": "Indica que el carril sobre el que se encuentra la señal, es de uso exclusivo para motocicletas y ciclomotores.", "correct": false},
+            {"text": "Indica que el carril sobre el que se encuentra la señal, es de uso exclusivo para bicicletas.", "correct": false}
+        ],
+        "picture": "signals/signal35.png"
+    },
+    {
+        "question": "¿Qué indica esta señal reglamentaria?",
+        "answers": [
+            {"text": "Que no se puede circular a una velocidad inferior a 35 km/h en esa vía.", "correct": true},
+            {"text": "Que la velocidad máxima es de 35 km/h en esa vía.", "correct": false},
+            {"text": "Que la velocidad precautoria es de 35 km/h en esa vía.", "correct": false}
+        ],
+        "picture": "signals/signal36.png"
+    },
+    {
+        "question": "Determine qué indica la señal que a continuación se presenta:",
+        "answers": [
+            {"text": "Prohibición de Girar a la Derecha.", "correct": true},
+            {"text": "Prohibición de Cambiar de Carril.", "correct": false},
+            {"text": "Prohibición de Adelantar.", "correct": false}
+        ],
+        "picture": "signals/signal37.png"
+    },
+    {
+        "question": "La señal que se muestra indica un camino sin salida:",
+        "answers": [
+            {"text": "Verdadero.", "correct": true},
+            {"text": "Falso.", "correct": false}
+        ],
+        "picture": "signals/signal38.png"
+    },
+    {
+        "question": "Indique qué representa la siguiente señal:",
+        "answers": [
+            {"text": "Dirección obligatoria en ambos sentidos.", "correct": false},
+            {"text": "Dirección permitida en ambos sentidos.", "correct": true},
+            {"text": "Giros permitidos.", "correct": false}
+        ],
+        "picture": "signals/signal39.png"
+    },
+    {
+        "question": "Determine qué indica la señal que a continuación se presenta:",
+        "answers": [
+            {"text": "Desvío por cambio de sentido de circulación.", "correct": true},
+            {"text": "Calzada dividida.", "correct": false},
+            {"text": "Cruce Peligroso.", "correct": false}
+        ],
+        "picture": "signals/signal40.png"
+    },
+    {
+        "question": "Determine qué indica la señal que a continuación se presenta:",
+        "answers": [
+            {"text": "Comienzo de autopista.", "correct": true},
+            {"text": "Comienzo de ruta.", "correct": false},
+            {"text": "Comienzo de semiautopista.", "correct": false}
+        ],
+        "picture": "signals/signal41.png"
+    },
+    {
+        "question": "Determine qué indica la señal que a continuación se presenta:",
+        "answers": [
+            {"text": "Fin de semiautopista.", "correct": false},
+            {"text": "Fin de ruta.", "correct": false},
+            {"text": "Fin de autopista.", "correct": true}
+        ],
+        "picture": "signals/signal42.png"
+    },
+    {
+        "question": "¿Qué indica esta señal?",
+        "answers": [
+            {"text": "Permitido girar hacia la izquierda.", "correct": false},
+            {"text": "Dirección obligatoria hacia la izquierda.", "correct": false},
+            {"text": "Dirección permitida hacia la izquierda.", "correct": true}
+        ],
+        "picture": "signals/signal43.png"
+    },
+    {
+        "question": "Esta señal advierte que en el lugar ocurrió un siniestro vial que produjo una víctima fatal.",
+        "answers": [
+            {"text": "Verdadero.", "correct": true},
+            {"text": "Falso.", "correct": false}
+        ],
+        "picture": "signals/signal44.png"
+    },
+    {
+        "question": "¿Qué indica esta señal vertical de información?",
+        "answers": [
+            {"text": "Una encrucijada peligrosa.", "correct": false},
+            {"text": "La existencia de un puesto sanitario o de socorro.", "correct": true},
+            {"text": "La existencia de un templo religioso.", "correct": false}
+        ],
+        "picture": "signals/signal45.png"
+    },
+    {
+        "question": "¿A qué punto de referencia hace alusión la señal que a continuación se presenta?",
+        "answers": [
+            {"text": "Servicio mecánico.", "correct": false},
+            {"text": "Gomería.", "correct": true},
+            {"text": "Estación de servicio.", "correct": false}
+        ],
+        "picture": "signals/signal46.png"
+    },
+    {
+        "question": "¿Qué indica esta señal?",
+        "answers": [
+            {"text": "Existencia de un teatro, en las inmediaciones.", "correct": true},
+            {"text": "Prohibición de estacionar en la puerta de un teatro.", "correct": false},
+            {"text": "Prohibición de detenerse en la puerta de un teatro.", "correct": false}
+        ],
+        "picture": "signals/signal47.png"
+    },
+    {
+        "question": "¿Qué indica esta señal?",
+        "answers": [
+            {"text": "Prohibición de estacionar en la entrada de terminal de ómnibus.", "correct": false},
+            {"text": "Existencia de terminal de ómnibus, en las inmediaciones.", "correct": true},
+            {"text": "Prohibición de detenerse en la entrada de terminal de ómnibus.", "correct": false}
+        ],
+        "picture": "signals/signal48.png"
+    },
+    {
+        "question": "¿Qué indica esta señal?",
+        "answers": [
+            {"text": "Prohibición de detenerse en las inmediaciones a la plaza.", "correct": false},
+            {"text": "Prohibición de estacionar en las inmediaciones a la plaza.", "correct": false},
+            {"text": "Existencia de una plaza, en las inmediaciones.", "correct": true}
+        ],
+        "picture": "signals/signal49.png"
+    },
+    {
+        "question": "¿Qué indica esta señal?",
+        "answers": [
+            {"text": "Se encuentra permitido detenerse en esa vía.", "correct": false},
+            {"text": "Existencia de un estacionamiento vehicular, en las inmediaciones.", "correct": true},
+            {"text": "Se encuentra permitido estacionar en esa vía.", "correct": false}
+        ],
+        "picture": "signals/signal50.png"
+    },
+    {
+        "question": "¿Cuál de la tres señales indica que la ruta es provincial?",
+        "answers": [
+            {"text": "La señal A.", "correct": false},
+            {"text": "La señal B.", "correct": false},
+            {"text": "La señal C.", "correct": true}
+        ],
+        "picture": "signals/signal51.png"
+    },
+    {
+        "question": "Indique qué significa esta señal:",
+        "answers": [
+            {"text": "Ruta Nacional N°5.", "correct": false},
+            {"text": "Ruta Provincial N°5.", "correct": true},
+            {"text": "Ruta Panamericana N°5.", "correct": false}
+        ],
+        "picture": "signals/signal52.png"
+    },
+    {
+        "question": "Indique qué significa esta señal:",
+        "answers": [
+            {"text": "Ruta Nacional N°3.", "correct": true},
+            {"text": "Ruta Provincial N°3.", "correct": false},
+            {"text": "Ruta Panamericana N°3.", "correct": false}
+        ],
+        "picture": "signals/signal53.png"
+    }
+]
